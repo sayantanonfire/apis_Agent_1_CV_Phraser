@@ -1,0 +1,110 @@
+SAYANTAN MANDAL New Delhi, INDIA | +91 7003151282 | sayantanonfire@gmail.com
+| LinkedIn | GitHub | ORCID ID | Google Scholar
+PROFESSIONAL SUMMARY
+Geospatial Data Scientist & PhD researcher (Delhi School of Economics) specializing in GIS (9+ years), Remote
+Sensing and AI/ML for multi-hazard modelling, DEM enhancement, and climate/disaster risk analytics. Built deep-
+learning and ensemble pipelines that achieved up to 95.3% ROC-AUC for drought zonation; designed dual-stage DEM
+void-repair + super-resolution (CRPAG→DS-HAT) for Himalayan terrain; and delivered end-to-end, reproducible
+Python/GeoAI workflows for rainfall, flood, and land-surface analysis. Trusted to translate complex geospatial data
+into actionable insights for planners and policy teams.
+CORE SKILLS
+Geospatial & RS: ArcGIS Pro, QGIS, Erdas Imagine, Global Mapper, MapInfo, Google Earth Engine; DTM/DEM
+processing (TWI/TPI, curvature), LULC (ML Classifier), NDVI; HEC-RAS, GlabTop, Edge Enhancement, Dark
+Image Subtraction, Computer Vision, Segment Anything Model, HecRAS Simulation Google Earth Engine (GEE),
+Geo-AI.
+Programming / Data: Python (JupyterLab/Colab/VS_Code/Spyder), MATLAB, Advanced Excel; SPSS. Java Script
+Basic.
+Python libraries (frequently used): numpy, pandas, geopandas, shapely, pyproj, fiona, rasterio, rioxarray, xarray,
+netCDF4, cfgrib, zarr, numcodecs, dask (arrays), matplotlib, seaborn, plotly, contextily, folium; scikit-learn, xgboost,
+statsmodels; tensorflow/keras, pytorch; SHAP. Plotly, leaflet, xarray, hvplot, Synxflow. GitHub+1
+ML/AI: CNN/DenseNet, MLP; stacking/ensemble learning (RF/XGBoost), SVM, Random Forest, Deep Ensemble
+Learning, CNN-LSTM,; anomaly detection (Isolation Forest, t-SNE); explainable AI (SHAP); super-resolution &
+generative approaches; SAM-based object extraction. Encoder, Decoder, Generator, RRBs,
+Data & Formats: GeoTIFF, Shapefile/GeoPackage, Raster / Vector data NetCDF, GRIB, Zarr; ERA5/IMERG
+ingestion and gridded analytics. GitHub+1
+PROFESSIONAL EXPERIENCE
+Senior Research Fellow (SRF) — Dept. of Geography, Delhi School of Economics, University of Delhi | Jan 2022–
+Present
+Leading PhD on multi-hazard assessment (Joshimath, Uttarakhand) using advanced RS/GIS + deep learning
++ MLOps + Data architecture.
+Landslide susceptibility (DenseNet-169): 18 preconditioning factors; AUC-ROC validation with novel
+GCP-based field checks; DenseNet outperformed MLP-NN & XGBoost (87% vs 85%/84%).
+DEM enhancement (CRPAG→DS-HAT): Dual-stage, multi-modal pipeline fusing Sentinel-2 texture with
+topography; improved RMSE (P95 ≈ 9.2 m) and SSIM vs baselines over high-relief terrain. Novel Algorithm
+generation and detailed workflow/pipeline provided. Github+1 Github+2
+Risk analytics: Applied SAM to auto-detect buildings near landslide hazard zones to prioritize mitigation.
+Github+1
+Project Lead — School of Disaster Management, TISS | Apr 2025–Jun 2025 Github+1
+Oversaw a short-term disaster-risk geospatial project; aligned RS pipelines and stakeholder reporting using
+ML based data driven approaches. Used Random Forest with 95% accuracy.
+Policy Intern — WWF-India | 2019
+Nation-wide selection (MoEFCC sponsored); contributed to conservation policy briefs.
+SELECTED GITHUB PROJECTS
+NASA IMERG rainfall & cloudburst predictions (Pipeline) — hourly IMERG NetCDF ingestion, >100
+mm/day cloudburst detection, Himachal overlay, heatmaps, seasonal stats; exports to shapefiles. Python,
+xarray, geopandas, matplotlib. GitHub
+ERA5 hourly reanalysis toolkit (Pipeline) — GRIB/NetCDF loaders; variable subsetting; mapping & time-
+series; packages include xarray, cfgrib, zarr/numcodecs, folium, matplotlib. GitHub
+Flood prediction (Random Forest) — vector→raster pipeline; feature engineering; RF model with
+explainability; libs: geopandas, scikit-learn, rasterio, statsmodels, SHAP, contextily Accuracy >95%.
+GitHub
+Geospatial data balancing via spatially-stratified sampling — Spatial Randomness Maximization
+methodology repo addressing class imbalance in spatial ML. GitHub
+“-9999” GIS Data Cleaner — Developed a Software to detect/replace sentinel missing values and visualize
+gaps in rasters. GitHub
+Deep ensemble for drought prediction — multi-model DL ensemble; linked to peer-reviewed ESPR article
+accuracy > 90% . GitHub
+PUBLICATIONS
+Published / Accepted
+1. From Gaps to Granularity: CRPAG-DSHAT multi-modal deep learning framework for DEM void repair and
+super-resolution in the Himalayas. ISPRS Open Journal of Photogrammetry & Remote Sensing,
+accepted Citation Score- 10.9 DOI : https://doi.org/10.1016/j.ophoto.2025.100101 (Applied 18 Accuracy
+assessment techniques for comprehensive validation.)
+2. An innovative ensemble approach of deep learning models with soft computing techniques for GIS-based
+drought-zonation mapping in Rarh Region, West Bengal. Environmental Science & Pollution Research,
+2025. DOI: 10.1007/s11356-025-36634-7. (ROC-AUC up to 95.3%.)
+3. A novel deep learning-based spatial ensemble approach and Segment Anything Model for landslide risk
+assessment in Chamoli district, Garhwal Himalayas. Nature Scientific Reports, accepted 2025. DOI:
+10.1038/s41598-025-01958-4. https://doi.org/10.1038/s41598-025-01958-4
+
+4. A Novel Deep Learning Approach for GIS-based Landslide Susceptibility Prediction in the Himalayas
+(Chamoli, Uttarakhand). Journal of the Indian Society of Remote Sensing, Manuscript ISRS-D-25-00835,
+first revision completed, 2025. Link to Manuscript.
+Under Review / In Revision
+1. Decoding the Non-Farm Transformation: a t-SNE–SHAP stacking ML audit of rural livelihood
+transformation in India’s Rarh Region. Global Environmental Change, Manuscript GEC-D-25-01581, first
+revision, 2025. (Stacking accuracy ≈ 93%; t-SNE + SHAP anomaly checks ≈ 19% flagged.) Link to
+Manuscript.
+2. (Co-author) A comparative study of AHP vs ML for groundwater-potential mapping in South Delhi. Science
+of the Total Environment, Manuscript STOTEN-D-25-08688, 2025 Link to Manuscript. Link to
+Manuscript
+ACADEMIC PROJECT HIGHLIGHTS
+Landslide & multi-hazard analytics: DenseNet LSM with 18 factors; spatial-ensemble risk maps; field-
+verified via GCP/AUC-ROC.
+DEM reconstruction: Dual-stage CRPAG→DS-HAT pipeline; RMSE and SSIM gains over MCU-Net/U-
+Net baselines in high-curvature terrain.
+Socio-economic ML: Stacking classifier (RF/SVM/DT) with SHAP interpretability; introduced t-SNE +
+Isolation Forest QA to flag ~19% anomalous responses.
+Flashflood and hydrodynamic analysis: Physics guided ML model for runoff; CN-LSTM-CNN runoff
+estimation per pixel. Runoff on grid topography for flash flood hydrodynamic simulation (Velocity, depth
+and extent).
+Miscellaneous : AI based Post disaster analysis (Notebook LM) using HecRAS 2D modelling and NASA
+IMERG data pipeline development.
+WEBINAR (TUTORIAL) AND PRESENTATION (related to research)
+Webinar Link+1 Presentation Link+1 Current Projects / Unpublished work - (PDF Version)
+EDUCATION
+Ph.D., Geography (GIS/RS/AI ML) — Delhi School of Economics, University of Delhi | 2022–Present (Thesis:
+Multi-Hazard Assessment using AI/ML; Joshimath, Uttarakhand, India).
+M.A., Geography — Delhi School of Economics | 2021 (GIS & RS, DIP, DTM).
+B.Sc., Geography — Presidency University, Kolkata | 2019.
+AWARDS
+ANRF ITS (formally DST SERB) for MEDGU 2025 International Conference.
+1st Prize (Best Paper), 43rd INCA International Conference (ISRO NRSC, Jodhpur), Nov 2023. Link to
+INCA Annual Report (Page No.- 639): Link to award page
+UGC NET-JRF: Nov 2020 & Mar 2023;
+WB-SET: 2022.
+TRAININGS & WORKSHOPS
+Geospatial Science & Technology (Level-2), DTU (21 days, May–Jun 2024) • Glaciology (Level-2), Univ. of Kashmir
+(22 days, Sep 2024) • Indo-Swiss Workshop on Rock-Ice Avalanche Modelling, CSIR-CBRI, IIT Roorke (Sep 2023)
+Climate Change & Hydrological Impact Assessment, NIH Roorkee (Dec 2022) • Optical Luminescence Dating,
+IISER Kolkata (Jan 2023).
