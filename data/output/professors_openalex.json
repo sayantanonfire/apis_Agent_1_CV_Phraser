@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Weicai Wang",
+    "institution": "Institute of Tibetan Plateau Research",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "An integrative method for identifying potentially dangerous glacial lakes in the Himalayas",
+        "year": 2021,
+        "citations": 86
+      },
+      {
+        "title": "Monitoring and early warning system of Cirenmaco glacial lake in the central Himalayas",
+        "year": 2022,
+        "citations": 76
+      }
+    ],
+    "total_citations": 162,
+    "openalex_id": "https://openalex.org/A5089960908",
+    "orcid": "https://orcid.org/0000-0003-1352-6303",
+    "h_index": 38,
+    "works_count": 136,
+    "cited_by_count": 7209
+  },
+  {
+    "name": "Hao Chen",
+    "institution": "Beihang University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection",
+        "year": 2020,
+        "citations": 1590
+      },
+      {
+        "title": "Remote Sensing Image Change Detection With Transformers",
+        "year": 2021,
+        "citations": 950
+      }
+    ],
+    "total_citations": 2540,
+    "openalex_id": "https://openalex.org/A5100353673",
+    "orcid": "https://orcid.org/0009-0001-6480-7976",
+    "h_index": 137,
+    "works_count": 5576,
+    "cited_by_count": 108647
+  },
+  {
+    "name": "Zhenwei Shi",
+    "institution": "Beihang University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection",
+        "year": 2020,
+        "citations": 1590
+      },
+      {
+        "title": "Remote Sensing Image Change Detection With Transformers",
+        "year": 2021,
+        "citations": 950
+      }
+    ],
+    "total_citations": 2540,
+    "openalex_id": "https://openalex.org/A5058849690",
+    "orcid": "https://orcid.org/0000-0002-4772-3172",
+    "h_index": 54,
+    "works_count": 378,
+    "cited_by_count": 14402
+  },
+  {
+    "name": "Iqbal H. Sarker",
+    "institution": "Swinburne University of Technology",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Machine Learning: Algorithms, Real-World Applications and Research Directions",
+        "year": 2021,
+        "citations": 4688
+      },
+      {
+        "title": "Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions",
+        "year": 2021,
+        "citations": 2258
+      }
+    ],
+    "total_citations": 6946,
+    "openalex_id": "https://openalex.org/A5055312229",
+    "orcid": "https://orcid.org/0000-0003-1740-5517",
+    "h_index": 44,
+    "works_count": 245,
+    "cited_by_count": 15674
+  },
+  {
+    "name": "Mohammad Azarafza",
+    "institution": "University of Tabriz",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716,
+    "openalex_id": "https://openalex.org/A5067906313",
+    "orcid": "https://orcid.org/0000-0001-7777-3800",
+    "h_index": 30,
+    "works_count": 55,
+    "cited_by_count": 2682
+  },
+  {
+    "name": "Mehdi Azarafza",
+    "institution": "University of Tabriz",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716,
+    "openalex_id": "https://openalex.org/A5032095959",
+    "orcid": "https://orcid.org/0000-0001-5597-4724",
+    "h_index": 7,
+    "works_count": 18,
+    "cited_by_count": 552
+  },
+  {
+    "name": "Haluk Akg\u00fcn",
+    "institution": "Middle East Technical University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716,
+    "openalex_id": "https://openalex.org/A5062704528",
+    "orcid": "https://orcid.org/0000-0003-0404-5647",
+    "h_index": 29,
+    "works_count": 124,
+    "cited_by_count": 2442
+  },
+  {
+    "name": "Romulus Costache",
+    "institution": "Transylvania University of Bra\u0219ov",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Application of remote sensing and machine learning algorithms for forest fire mapping in a Mediterranean area",
+        "year": 2021,
+        "citations": 312
+      },
+      {
+        "title": "Flood susceptibility evaluation through deep learning optimizer ensembles and GIS techniques",
+        "year": 2022,
+        "citations": 40
+      }
+    ],
+    "total_citations": 352,
+    "openalex_id": "https://openalex.org/A5066655516",
+    "orcid": "https://orcid.org/0000-0002-6876-8572",
+    "h_index": 50,
+    "works_count": 154,
+    "cited_by_count": 7988
+  },
+  {
+    "name": "Haijia Wen",
+    "institution": "Chongqing University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A random forest model of landslide susceptibility mapping based on hyperparameter optimization using Bayes algorithm",
+        "year": 2020,
+        "citations": 440
+      },
+      {
+        "title": "Landslide susceptibility mapping using hybrid random forest with GeoDetector and RFE for factor optimization",
+        "year": 2021,
+        "citations": 378
+      }
+    ],
+    "total_citations": 818,
+    "openalex_id": "https://openalex.org/A5087139878",
+    "orcid": "https://orcid.org/0000-0002-2045-729X",
+    "h_index": 27,
+    "works_count": 115,
+    "cited_by_count": 3808
+  },
+  {
+    "name": "Xiaoyu Mo",
+    "institution": "Nanyang Technological University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network",
+        "year": 2022,
+        "citations": 239
+      }
+    ],
+    "total_citations": 239,
+    "openalex_id": "https://openalex.org/A5046347854",
+    "orcid": "https://orcid.org/0000-0002-8729-5037",
+    "h_index": 21,
+    "works_count": 66,
+    "cited_by_count": 1445
+  },
+  {
+    "name": "Zhiyu Huang",
+    "institution": "Nanyang Technological University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network",
+        "year": 2022,
+        "citations": 239
+      }
+    ],
+    "total_citations": 239,
+    "openalex_id": "https://openalex.org/A5100632715",
+    "orcid": "https://orcid.org/0000-0002-9115-5571",
+    "h_index": 29,
+    "works_count": 161,
+    "cited_by_count": 3683
+  },
+  {
+    "name": "Jakaria Rabbi",
+    "institution": "Athabasca University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273,
+    "openalex_id": "https://openalex.org/A5006035862",
+    "orcid": "https://orcid.org/0000-0001-9572-9010",
+    "h_index": 9,
+    "works_count": 20,
+    "cited_by_count": 641
+  },
+  {
+    "name": "Nilanjan Ray",
+    "institution": "University of Alberta",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273,
+    "openalex_id": "https://openalex.org/A5082800075",
+    "orcid": "https://orcid.org/0000-0002-7588-5400",
+    "h_index": 32,
+    "works_count": 239,
+    "cited_by_count": 3527
+  },
+  {
+    "name": "Matthias Schubert",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273,
+    "openalex_id": "https://openalex.org/A5003177894",
+    "orcid": "https://orcid.org/0000-0002-6566-6343",
+    "h_index": 28,
+    "works_count": 292,
+    "cited_by_count": 4040
+  },
+  {
+    "name": "Minfeng Zhu",
+    "institution": "Zhejiang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200,
+    "openalex_id": "https://openalex.org/A5010441587",
+    "orcid": "https://orcid.org/0000-0002-6711-3099",
+    "h_index": 21,
+    "works_count": 95,
+    "cited_by_count": 3052
+  },
+  {
+    "name": "Pingbo Pan",
+    "institution": "University of Technology Sydney",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200,
+    "openalex_id": "https://openalex.org/A5112496743",
+    "orcid": null,
+    "h_index": 10,
+    "works_count": 15,
+    "cited_by_count": 1436
+  },
+  {
+    "name": "Wei Chen",
+    "institution": "Zhejiang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200,
+    "openalex_id": "https://openalex.org/A5100344298",
+    "orcid": "https://orcid.org/0000-0001-5451-6430",
+    "h_index": 78,
+    "works_count": 2013,
+    "cited_by_count": 32431
+  },
+  {
+    "name": "Yang Li",
+    "institution": "Beihang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Dual Encoder-Based Dynamic-Channel Graph Convolutional Network With Edge Enhancement for Retinal Vessel Segmentation",
+        "year": 2022,
+        "citations": 156
+      }
+    ],
+    "total_citations": 156,
+    "openalex_id": "https://openalex.org/A5100421591",
+    "orcid": "https://orcid.org/0000-0002-6515-4567",
+    "h_index": 67,
+    "works_count": 1361,
+    "cited_by_count": 18855
+  },
+  {
+    "name": "Yue Zhang",
+    "institution": "Beihang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Dual Encoder-Based Dynamic-Channel Graph Convolutional Network With Edge Enhancement for Retinal Vessel Segmentation",
+        "year": 2022,
+        "citations": 156
+      }
+    ],
+    "total_citations": 156,
+    "openalex_id": "https://openalex.org/A5100333738",
+    "orcid": "https://orcid.org/0000-0002-6327-5023",
+    "h_index": 55,
+    "works_count": 932,
+    "cited_by_count": 15060
+  },
+  {
+    "name": "Weigang Cui",
+    "institution": "Beihang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Dual Encoder-Based Dynamic-Channel Graph Convolutional Network With Edge Enhancement for Retinal Vessel Segmentation",
+        "year": 2022,
+        "citations": 156
+      }
+    ],
+    "total_citations": 156,
+    "openalex_id": "https://openalex.org/A5041088271",
+    "orcid": null,
+    "h_index": 21,
+    "works_count": 68,
+    "cited_by_count": 1435
+  }
+]

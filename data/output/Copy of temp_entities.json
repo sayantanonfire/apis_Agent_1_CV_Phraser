@@ -25,28 +25,28 @@
     }
   ],
   "organizations": [
-    "the Total Environment",
-    "Erdas Imagine",
-    "DenseNet",
-    "Flashflood",
+    "Landslide & multi-hazard",
+    "MCU-Net/U-\nNet",
+    "NASA",
+    "TRAININGS & WORKSHOPS\nGeospatial Science & Technology",
     "Himachal",
-    "GIS & RS",
-    "ESPR",
-    "Delhi School of Economics",
+    "SAM",
+    "Socio-economic",
+    "Erdas Imagine",
     "Applied SAM",
-    "pandas"
+    "Physics"
   ],
   "locations": [
-    "NetCDF",
-    "New Delhi",
-    "Uttarakhand",
-    "Jodhpur",
     "Kolkata",
-    "Joshimath",
-    "INDIA",
+    "Uttarakhand",
     "Synxflow",
-    "cfgrib",
-    "Chamoli"
+    "Joshimath",
+    "New Delhi",
+    "Chamoli",
+    "netCDF4",
+    "India",
+    "Himalayas",
+    "NetCDF"
   ],
   "skills": [
     "ArcGIS",

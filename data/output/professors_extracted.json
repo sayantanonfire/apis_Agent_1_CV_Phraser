@@ -1,0 +1,697 @@
+[
+  {
+    "name": "Weicai Wang",
+    "institution": "Institute of Tibetan Plateau Research",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "An integrative method for identifying potentially dangerous glacial lakes in the Himalayas",
+        "year": 2021,
+        "citations": 86
+      },
+      {
+        "title": "Monitoring and early warning system of Cirenmaco glacial lake in the central Himalayas",
+        "year": 2022,
+        "citations": 76
+      }
+    ],
+    "total_citations": 162
+  },
+  {
+    "name": "Hao Chen",
+    "institution": "Beihang University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection",
+        "year": 2020,
+        "citations": 1590
+      },
+      {
+        "title": "Remote Sensing Image Change Detection With Transformers",
+        "year": 2021,
+        "citations": 950
+      }
+    ],
+    "total_citations": 2540
+  },
+  {
+    "name": "Zhenwei Shi",
+    "institution": "Beihang University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection",
+        "year": 2020,
+        "citations": 1590
+      },
+      {
+        "title": "Remote Sensing Image Change Detection With Transformers",
+        "year": 2021,
+        "citations": 950
+      }
+    ],
+    "total_citations": 2540
+  },
+  {
+    "name": "Iqbal H. Sarker",
+    "institution": "Swinburne University of Technology",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Machine Learning: Algorithms, Real-World Applications and Research Directions",
+        "year": 2021,
+        "citations": 4688
+      },
+      {
+        "title": "Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions",
+        "year": 2021,
+        "citations": 2258
+      }
+    ],
+    "total_citations": 6946
+  },
+  {
+    "name": "Mohammad Azarafza",
+    "institution": "University of Tabriz",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716
+  },
+  {
+    "name": "Mehdi Azarafza",
+    "institution": "University of Tabriz",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716
+  },
+  {
+    "name": "Haluk Akg\u00fcn",
+    "institution": "Middle East Technical University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716
+  },
+  {
+    "name": "Romulus Costache",
+    "institution": "Transylvania University of Bra\u0219ov",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Application of remote sensing and machine learning algorithms for forest fire mapping in a Mediterranean area",
+        "year": 2021,
+        "citations": 312
+      },
+      {
+        "title": "Flood susceptibility evaluation through deep learning optimizer ensembles and GIS techniques",
+        "year": 2022,
+        "citations": 40
+      }
+    ],
+    "total_citations": 352
+  },
+  {
+    "name": "Haijia Wen",
+    "institution": "Chongqing University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A random forest model of landslide susceptibility mapping based on hyperparameter optimization using Bayes algorithm",
+        "year": 2020,
+        "citations": 440
+      },
+      {
+        "title": "Landslide susceptibility mapping using hybrid random forest with GeoDetector and RFE for factor optimization",
+        "year": 2021,
+        "citations": 378
+      }
+    ],
+    "total_citations": 818
+  },
+  {
+    "name": "Xiaoyu Mo",
+    "institution": "Nanyang Technological University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network",
+        "year": 2022,
+        "citations": 239
+      }
+    ],
+    "total_citations": 239
+  },
+  {
+    "name": "Zhiyu Huang",
+    "institution": "Nanyang Technological University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network",
+        "year": 2022,
+        "citations": 239
+      }
+    ],
+    "total_citations": 239
+  },
+  {
+    "name": "Jakaria Rabbi",
+    "institution": "Athabasca University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273
+  },
+  {
+    "name": "Nilanjan Ray",
+    "institution": "University of Alberta",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273
+  },
+  {
+    "name": "Matthias Schubert",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273
+  },
+  {
+    "name": "Minfeng Zhu",
+    "institution": "Zhejiang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200
+  },
+  {
+    "name": "Pingbo Pan",
+    "institution": "University of Technology Sydney",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200
+  },
+  {
+    "name": "Wei Chen",
+    "institution": "Zhejiang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200
+  },
+  {
+    "name": "Yang Li",
+    "institution": "Beihang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Dual Encoder-Based Dynamic-Channel Graph Convolutional Network With Edge Enhancement for Retinal Vessel Segmentation",
+        "year": 2022,
+        "citations": 156
+      }
+    ],
+    "total_citations": 156
+  },
+  {
+    "name": "Yue Zhang",
+    "institution": "Beihang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Dual Encoder-Based Dynamic-Channel Graph Convolutional Network With Edge Enhancement for Retinal Vessel Segmentation",
+        "year": 2022,
+        "citations": 156
+      }
+    ],
+    "total_citations": 156
+  },
+  {
+    "name": "Weigang Cui",
+    "institution": "Beihang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Dual Encoder-Based Dynamic-Channel Graph Convolutional Network With Edge Enhancement for Retinal Vessel Segmentation",
+        "year": 2022,
+        "citations": 156
+      }
+    ],
+    "total_citations": 156
+  },
+  {
+    "name": "Shiyao Cui",
+    "institution": "Institute of Information Engineering",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation",
+        "year": 2020,
+        "citations": 106
+      }
+    ],
+    "total_citations": 106
+  },
+  {
+    "name": "Bowen Yu",
+    "institution": "University of Chinese Academy of Sciences",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation",
+        "year": 2020,
+        "citations": 106
+      }
+    ],
+    "total_citations": 106
+  },
+  {
+    "name": "Tingwen Liu",
+    "institution": "University of Chinese Academy of Sciences",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation",
+        "year": 2020,
+        "citations": 106
+      }
+    ],
+    "total_citations": 106
+  },
+  {
+    "name": "Trevon Badloe",
+    "institution": "Pohang University of Science and Technology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Bright-Field and Edge-Enhanced Imaging Using an Electrically Tunable Dual-Mode Metalens",
+        "year": 2023,
+        "citations": 107
+      }
+    ],
+    "total_citations": 107
+  },
+  {
+    "name": "Yeseul Kim",
+    "institution": "Pohang University of Science and Technology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Bright-Field and Edge-Enhanced Imaging Using an Electrically Tunable Dual-Mode Metalens",
+        "year": 2023,
+        "citations": 107
+      }
+    ],
+    "total_citations": 107
+  },
+  {
+    "name": "Joohoon Kim",
+    "institution": "Pohang University of Science and Technology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Bright-Field and Edge-Enhanced Imaging Using an Electrically Tunable Dual-Mode Metalens",
+        "year": 2023,
+        "citations": 107
+      }
+    ],
+    "total_citations": 107
+  },
+  {
+    "name": "Tengfei Liang",
+    "institution": "Beijing Jiaotong University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising",
+        "year": 2020,
+        "citations": 121
+      }
+    ],
+    "total_citations": 121
+  },
+  {
+    "name": "Yi Jin",
+    "institution": "Beijing Jiaotong University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising",
+        "year": 2020,
+        "citations": 121
+      }
+    ],
+    "total_citations": 121
+  },
+  {
+    "name": "Yidong Li",
+    "institution": "Beijing Jiaotong University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising",
+        "year": 2020,
+        "citations": 121
+      }
+    ],
+    "total_citations": 121
+  },
+  {
+    "name": "Han Xiao",
+    "institution": "Beijing University of Posts and Telecommunications",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "A Transcoding-Enabled 360\u00b0 VR Video Caching and Delivery Framework for Edge-Enhanced Next-Generation Wireless Networks",
+        "year": 2022,
+        "citations": 120
+      }
+    ],
+    "total_citations": 120
+  },
+  {
+    "name": "Changqiao Xu",
+    "institution": "Beijing University of Posts and Telecommunications",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "A Transcoding-Enabled 360\u00b0 VR Video Caching and Delivery Framework for Edge-Enhanced Next-Generation Wireless Networks",
+        "year": 2022,
+        "citations": 120
+      }
+    ],
+    "total_citations": 120
+  },
+  {
+    "name": "Zichen Feng",
+    "institution": "Beijing University of Posts and Telecommunications",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "A Transcoding-Enabled 360\u00b0 VR Video Caching and Delivery Framework for Edge-Enhanced Next-Generation Wireless Networks",
+        "year": 2022,
+        "citations": 120
+      }
+    ],
+    "total_citations": 120
+  },
+  {
+    "name": "Xiaoyuan Liu",
+    "institution": "City University of Hong Kong",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Edge enhanced depth perception with binocular meta-lens",
+        "year": 2024,
+        "citations": 54
+      }
+    ],
+    "total_citations": 54
+  },
+  {
+    "name": "Jingcheng Zhang",
+    "institution": "City University of Hong Kong",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Edge enhanced depth perception with binocular meta-lens",
+        "year": 2024,
+        "citations": 54
+      }
+    ],
+    "total_citations": 54
+  },
+  {
+    "name": "Borui Leng",
+    "institution": "City University of Hong Kong",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Edge enhanced depth perception with binocular meta-lens",
+        "year": 2024,
+        "citations": 54
+      }
+    ],
+    "total_citations": 54
+  },
+  {
+    "name": "Lingwei Wei",
+    "institution": "University of Chinese Academy of Sciences",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection",
+        "year": 2021,
+        "citations": 110
+      }
+    ],
+    "total_citations": 110
+  },
+  {
+    "name": "Wei Zhou",
+    "institution": "Institute of Information Engineering",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection",
+        "year": 2021,
+        "citations": 110
+      }
+    ],
+    "total_citations": 110
+  },
+  {
+    "name": "Yan Wang",
+    "institution": "Baidu (China)",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Edge-enhanced Feature Distillation Network for Efficient Super-Resolution",
+        "year": 2022,
+        "citations": 58
+      }
+    ],
+    "total_citations": 58
+  },
+  {
+    "name": "Meng Zhao",
+    "institution": "Norwegian University of Science and Technology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "SEENS: Nuclei segmentation in Pap smear images with selective edge enhancement",
+        "year": 2020,
+        "citations": 67
+      }
+    ],
+    "total_citations": 67
+  },
+  {
+    "name": "Hao Wang",
+    "institution": "Norwegian University of Science and Technology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "SEENS: Nuclei segmentation in Pap smear images with selective edge enhancement",
+        "year": 2020,
+        "citations": 67
+      }
+    ],
+    "total_citations": 67
+  },
+  {
+    "name": "Ying Han",
+    "institution": "Tianjin University of Technology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "SEENS: Nuclei segmentation in Pap smear images with selective edge enhancement",
+        "year": 2020,
+        "citations": 67
+      }
+    ],
+    "total_citations": 67
+  },
+  {
+    "name": "T. P. Sabin",
+    "institution": "Indian Institute of Tropical Meteorology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Climate Change Over the Himalayas",
+        "year": 2020,
+        "citations": 184
+      }
+    ],
+    "total_citations": 184
+  },
+  {
+    "name": "R. Krishnan",
+    "institution": "Indian Institute of Tropical Meteorology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Climate Change Over the Himalayas",
+        "year": 2020,
+        "citations": 184
+      }
+    ],
+    "total_citations": 184
+  },
+  {
+    "name": "Ramesh Vellore",
+    "institution": "Indian Institute of Tropical Meteorology",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Climate Change Over the Himalayas",
+        "year": 2020,
+        "citations": 184
+      }
+    ],
+    "total_citations": 184
+  },
+  {
+    "name": "Sansar Raj Meena",
+    "institution": "University of Padua",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Landslide detection in the Himalayas using machine learning algorithms and U-Net",
+        "year": 2022,
+        "citations": 185
+      }
+    ],
+    "total_citations": 185
+  },
+  {
+    "name": "Lucas Pedrosa Soares",
+    "institution": "CRC for Spatial information",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Landslide detection in the Himalayas using machine learning algorithms and U-Net",
+        "year": 2022,
+        "citations": 185
+      }
+    ],
+    "total_citations": 185
+  },
+  {
+    "name": "Carlos Henrique Grohmann",
+    "institution": "Universidade de S\u00e3o Paulo",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Landslide detection in the Himalayas using machine learning algorithms and U-Net",
+        "year": 2022,
+        "citations": 185
+      }
+    ],
+    "total_citations": 185
+  },
+  {
+    "name": "Saket Dubey",
+    "institution": "Indian Institute of Technology Indore",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Glacial Lake Outburst Flood Hazard, Downstream Impact, and Risk Over the Indian Himalayas",
+        "year": 2020,
+        "citations": 162
+      }
+    ],
+    "total_citations": 162
+  },
+  {
+    "name": "Manish Kumar Goyal",
+    "institution": "Indian Institute of Technology Indore",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Glacial Lake Outburst Flood Hazard, Downstream Impact, and Risk Over the Indian Himalayas",
+        "year": 2020,
+        "citations": 162
+      }
+    ],
+    "total_citations": 162
+  },
+  {
+    "name": "Avishek Talukdar",
+    "institution": "Zoological Survey of India",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Microplastic pollution in the Himalayas: Occurrence, distribution, accumulation and environmental impacts",
+        "year": 2023,
+        "citations": 108
+      }
+    ],
+    "total_citations": 108
+  }
+]

@@ -1,0 +1,2999 @@
+[
+ {
+  "title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network",
+  "year": 2022,
+  "citations": 239,
+  "doi": "https://doi.org/10.1109/tits.2022.3146300",
+  "authors": [
+   {
+    "name": "Xiaoyu Mo",
+    "institution": "Nanyang Technological University"
+   },
+   {
+    "name": "Zhiyu Huang",
+    "institution": "Nanyang Technological University"
+   },
+   {
+    "name": "Yang Xing",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+  "year": 2020,
+  "citations": 273,
+  "doi": "https://doi.org/10.3390/rs12091432",
+  "authors": [
+   {
+    "name": "Jakaria Rabbi",
+    "institution": "Athabasca University"
+   },
+   {
+    "name": "Nilanjan Ray",
+    "institution": "University of Alberta"
+   },
+   {
+    "name": "Matthias Schubert",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+   }
+  ]
+ },
+ {
+  "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+  "year": 2020,
+  "citations": 200,
+  "doi": "https://doi.org/10.1609/aaai.v34i07.7013",
+  "authors": [
+   {
+    "name": "Minfeng Zhu",
+    "institution": "Zhejiang University"
+   },
+   {
+    "name": "Pingbo Pan",
+    "institution": "University of Technology Sydney"
+   },
+   {
+    "name": "Wei Chen",
+    "institution": "Zhejiang University"
+   }
+  ]
+ },
+ {
+  "title": "Dual Encoder-Based Dynamic-Channel Graph Convolutional Network With Edge Enhancement for Retinal Vessel Segmentation",
+  "year": 2022,
+  "citations": 156,
+  "doi": "https://doi.org/10.1109/tmi.2022.3151666",
+  "authors": [
+   {
+    "name": "Yang Li",
+    "institution": "Beihang University"
+   },
+   {
+    "name": "Yue Zhang",
+    "institution": "Beihang University"
+   },
+   {
+    "name": "Weigang Cui",
+    "institution": "Beihang University"
+   }
+  ]
+ },
+ {
+  "title": "Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation",
+  "year": 2020,
+  "citations": 106,
+  "doi": "https://doi.org/10.18653/v1/2020.findings-emnlp.211",
+  "authors": [
+   {
+    "name": "Shiyao Cui",
+    "institution": "Institute of Information Engineering"
+   },
+   {
+    "name": "Bowen Yu",
+    "institution": "University of Chinese Academy of Sciences"
+   },
+   {
+    "name": "Tingwen Liu",
+    "institution": "University of Chinese Academy of Sciences"
+   }
+  ]
+ },
+ {
+  "title": "Bright-Field and Edge-Enhanced Imaging Using an Electrically Tunable Dual-Mode Metalens",
+  "year": 2023,
+  "citations": 107,
+  "doi": "https://doi.org/10.1021/acsnano.3c02471",
+  "authors": [
+   {
+    "name": "Trevon Badloe",
+    "institution": "Pohang University of Science and Technology"
+   },
+   {
+    "name": "Yeseul Kim",
+    "institution": "Pohang University of Science and Technology"
+   },
+   {
+    "name": "Joohoon Kim",
+    "institution": "Pohang University of Science and Technology"
+   }
+  ]
+ },
+ {
+  "title": "EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising",
+  "year": 2020,
+  "citations": 121,
+  "doi": "https://doi.org/10.1109/icsp48669.2020.9320928",
+  "authors": [
+   {
+    "name": "Tengfei Liang",
+    "institution": "Beijing Jiaotong University"
+   },
+   {
+    "name": "Yi Jin",
+    "institution": "Beijing Jiaotong University"
+   },
+   {
+    "name": "Yidong Li",
+    "institution": "Beijing Jiaotong University"
+   }
+  ]
+ },
+ {
+  "title": "A Transcoding-Enabled 360\u00b0 VR Video Caching and Delivery Framework for Edge-Enhanced Next-Generation Wireless Networks",
+  "year": 2022,
+  "citations": 120,
+  "doi": "https://doi.org/10.1109/jsac.2022.3145813",
+  "authors": [
+   {
+    "name": "Han Xiao",
+    "institution": "Beijing University of Posts and Telecommunications"
+   },
+   {
+    "name": "Changqiao Xu",
+    "institution": "Beijing University of Posts and Telecommunications"
+   },
+   {
+    "name": "Zichen Feng",
+    "institution": "Beijing University of Posts and Telecommunications"
+   }
+  ]
+ },
+ {
+  "title": "Edge enhanced depth perception with binocular meta-lens",
+  "year": 2024,
+  "citations": 54,
+  "doi": "https://doi.org/10.29026/oes.2024.230033",
+  "authors": [
+   {
+    "name": "Xiaoyuan Liu",
+    "institution": "City University of Hong Kong"
+   },
+   {
+    "name": "Jingcheng Zhang",
+    "institution": "City University of Hong Kong"
+   },
+   {
+    "name": "Borui Leng",
+    "institution": "City University of Hong Kong"
+   }
+  ]
+ },
+ {
+  "title": "Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection",
+  "year": 2021,
+  "citations": 110,
+  "doi": "https://doi.org/10.18653/v1/2021.acl-long.297",
+  "authors": [
+   {
+    "name": "Lingwei Wei",
+    "institution": "University of Chinese Academy of Sciences"
+   },
+   {
+    "name": "Dou Hu",
+    "institution": ""
+   },
+   {
+    "name": "Wei Zhou",
+    "institution": "Institute of Information Engineering"
+   }
+  ]
+ },
+ {
+  "title": "Edge-enhanced Feature Distillation Network for Efficient Super-Resolution",
+  "year": 2022,
+  "citations": 58,
+  "doi": "https://doi.org/10.1109/cvprw56347.2022.00093",
+  "authors": [
+   {
+    "name": "Yan Wang",
+    "institution": "Baidu (China)"
+   }
+  ]
+ },
+ {
+  "title": "SEENS: Nuclei segmentation in Pap smear images with selective edge enhancement",
+  "year": 2020,
+  "citations": 67,
+  "doi": "https://doi.org/10.1016/j.future.2020.07.045",
+  "authors": [
+   {
+    "name": "Meng Zhao",
+    "institution": "Norwegian University of Science and Technology"
+   },
+   {
+    "name": "Hao Wang",
+    "institution": "Norwegian University of Science and Technology"
+   },
+   {
+    "name": "Ying Han",
+    "institution": "Tianjin University of Technology"
+   }
+  ]
+ },
+ {
+  "title": "Climate Change Over the Himalayas",
+  "year": 2020,
+  "citations": 184,
+  "doi": "https://doi.org/10.1007/978-981-15-4327-2_11",
+  "authors": [
+   {
+    "name": "T. P. Sabin",
+    "institution": "Indian Institute of Tropical Meteorology"
+   },
+   {
+    "name": "R. Krishnan",
+    "institution": "Indian Institute of Tropical Meteorology"
+   },
+   {
+    "name": "Ramesh Vellore",
+    "institution": "Indian Institute of Tropical Meteorology"
+   }
+  ]
+ },
+ {
+  "title": "Landslide detection in the Himalayas using machine learning algorithms and U-Net",
+  "year": 2022,
+  "citations": 185,
+  "doi": "https://doi.org/10.1007/s10346-022-01861-3",
+  "authors": [
+   {
+    "name": "Sansar Raj Meena",
+    "institution": "University of Padua"
+   },
+   {
+    "name": "Lucas Pedrosa Soares",
+    "institution": "CRC for Spatial information"
+   },
+   {
+    "name": "Carlos Henrique Grohmann",
+    "institution": "Universidade de S\u00e3o Paulo"
+   }
+  ]
+ },
+ {
+  "title": "Glacial Lake Outburst Flood Hazard, Downstream Impact, and Risk Over the Indian Himalayas",
+  "year": 2020,
+  "citations": 162,
+  "doi": "https://doi.org/10.1029/2019wr026533",
+  "authors": [
+   {
+    "name": "Saket Dubey",
+    "institution": "Indian Institute of Technology Indore"
+   },
+   {
+    "name": "Manish Kumar Goyal",
+    "institution": "Indian Institute of Technology Indore"
+   }
+  ]
+ },
+ {
+  "title": "Microplastic pollution in the Himalayas: Occurrence, distribution, accumulation and environmental impacts",
+  "year": 2023,
+  "citations": 108,
+  "doi": "https://doi.org/10.1016/j.scitotenv.2023.162495",
+  "authors": [
+   {
+    "name": "Avishek Talukdar",
+    "institution": "Zoological Survey of India"
+   },
+   {
+    "name": "Sayan Bhattacharya",
+    "institution": "Nalanda University"
+   },
+   {
+    "name": "Ajeya Bandyopadhyay",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "An integrative method for identifying potentially dangerous glacial lakes in the Himalayas",
+  "year": 2021,
+  "citations": 86,
+  "doi": "https://doi.org/10.1016/j.scitotenv.2021.150442",
+  "authors": [
+   {
+    "name": "Taigang Zhang",
+    "institution": "Chinese Academy of Sciences"
+   },
+   {
+    "name": "Weicai Wang",
+    "institution": "Institute of Tibetan Plateau Research"
+   },
+   {
+    "name": "Tanguang Gao",
+    "institution": "Lanzhou University"
+   }
+  ]
+ },
+ {
+  "title": "IoT-Based Geotechnical Monitoring of Unstable Slopes for Landslide Early Warning in the Darjeeling Himalayas",
+  "year": 2020,
+  "citations": 112,
+  "doi": "https://doi.org/10.3390/s20092611",
+  "authors": [
+   {
+    "name": "Minu Treesa Abraham",
+    "institution": "Indian Institute of Technology Indore"
+   },
+   {
+    "name": "Neelima Satyam",
+    "institution": "Indian Institute of Technology Indore"
+   },
+   {
+    "name": "Biswajeet Pradhan",
+    "institution": "University of Technology Sydney"
+   }
+  ]
+ },
+ {
+  "title": "Landslide susceptibility assessment based on an incomplete landslide inventory in the Jilong Valley, Tibet, Chinese Himalayas",
+  "year": 2020,
+  "citations": 145,
+  "doi": "https://doi.org/10.1016/j.enggeo.2020.105572",
+  "authors": [
+   {
+    "name": "Juan Du",
+    "institution": "University of Vienna"
+   },
+   {
+    "name": "Thomas Glade",
+    "institution": "University of Vienna"
+   },
+   {
+    "name": "T. Woldai",
+    "institution": "University of the Witwatersrand"
+   }
+  ]
+ },
+ {
+  "title": "Distribution and characteristics of microplastics and phthalate esters from a freshwater lake system in Lesser Himalayas",
+  "year": 2021,
+  "citations": 127,
+  "doi": "https://doi.org/10.1016/j.chemosphere.2021.131132",
+  "authors": [
+   {
+    "name": "Kumar Ajay",
+    "institution": "Indian Institute of Science Education and Research Mohali"
+   },
+   {
+    "name": "Diptimayee Behera",
+    "institution": "Indian Institute of Science Education and Research Mohali"
+   },
+   {
+    "name": "Sharmila Bhattacharya",
+    "institution": "Indian Institute of Science Education and Research Mohali"
+   }
+  ]
+ },
+ {
+  "title": "Drivers and mechanisms of forest change in the Himalayas",
+  "year": 2021,
+  "citations": 62,
+  "doi": "https://doi.org/10.1016/j.gloenvcha.2021.102244",
+  "authors": [
+   {
+    "name": "Akash Verma",
+    "institution": "National University of Singapore"
+   },
+   {
+    "name": "Dietrich Schmidt\u2010Vogt",
+    "institution": "University of Freiburg"
+   },
+   {
+    "name": "Jose Don T. De Alban",
+    "institution": "National University of Singapore"
+   }
+  ]
+ },
+ {
+  "title": "Ethnobotany of the Himalayas",
+  "year": 2020,
+  "citations": 38,
+  "doi": "https://doi.org/10.1007/978-3-030-45597-2",
+  "authors": [
+   {
+    "name": "Ripu M. Kunwar",
+    "institution": "Florida Atlantic University"
+   },
+   {
+    "name": "Hassan Sher",
+    "institution": "University of Swat"
+   },
+   {
+    "name": "Rainer W. Bussmann",
+    "institution": "Ilia State University"
+   }
+  ]
+ },
+ {
+  "title": "Monitoring and early warning system of Cirenmaco glacial lake in the central Himalayas",
+  "year": 2022,
+  "citations": 76,
+  "doi": "https://doi.org/10.1016/j.ijdrr.2022.102914",
+  "authors": [
+   {
+    "name": "Weicai Wang",
+    "institution": "Institute of Tibetan Plateau Research"
+   },
+   {
+    "name": "Taigang Zhang",
+    "institution": "Institute of Tibetan Plateau Research"
+   },
+   {
+    "name": "Tandong Yao",
+    "institution": "Institute of Tibetan Plateau Research"
+   }
+  ]
+ },
+ {
+  "title": "Climate warming in the Himalayas threatens biodiversity, ecosystem functioning and ecosystem services in the 21st century: is there a better solution?",
+  "year": 2022,
+  "citations": 150,
+  "doi": "https://doi.org/10.1007/s10531-022-02417-6",
+  "authors": [
+   {
+    "name": "Giri Kattel",
+    "institution": "University of Melbourne"
+   }
+  ]
+ },
+ {
+  "title": "Arable lands under the pressure of multiple land degradation processes. A global perspective",
+  "year": 2021,
+  "citations": 351,
+  "doi": "https://doi.org/10.1016/j.envres.2020.110697",
+  "authors": [
+   {
+    "name": "Remus Pr\u0103v\u0103lie",
+    "institution": "University of Bucharest"
+   },
+   {
+    "name": "Cristian Valeriu Patriche",
+    "institution": "Romanian Academy"
+   },
+   {
+    "name": "Pasquale Borrelli",
+    "institution": "University of Pavia"
+   }
+  ]
+ },
+ {
+  "title": "Multi-geospatial flood hazard modelling for a large and complex river basin with data sparsity: a case study of the Lam River Basin, Vietnam",
+  "year": 2021,
+  "citations": 24,
+  "doi": "https://doi.org/10.1007/s41748-021-00215-8",
+  "authors": [
+   {
+    "name": "Nguyen Ba Dung",
+    "institution": "Hanoi University of Natural Resources and Environment"
+   },
+   {
+    "name": "Nguy\u1ec5n Qu\u1ed1c Long",
+    "institution": "Hanoi University of Mining and Geology"
+   },
+   {
+    "name": "Dang Tran An",
+    "institution": "Thuyloi University"
+   }
+  ]
+ },
+ {
+  "title": "lidR: An R package for analysis of Airborne Laser Scanning (ALS) data",
+  "year": 2020,
+  "citations": 891,
+  "doi": "https://doi.org/10.1016/j.rse.2020.112061",
+  "authors": [
+   {
+    "name": "Jean-Romain Roussel",
+    "institution": "Universit\u00e9 Laval"
+   },
+   {
+    "name": "David Auty",
+    "institution": "Northern Arizona University"
+   },
+   {
+    "name": "Nicholas C. Coops",
+    "institution": "University of British Columbia"
+   }
+  ]
+ },
+ {
+  "title": "Using the ideology of geospatial data infrastructure to create a system of accounting and management of land and property complexes of enterprises and local communities, including UTC",
+  "year": 2020,
+  "citations": 5,
+  "doi": "https://doi.org/10.31548/zemleustriy2020.04.06",
+  "authors": [
+   {
+    "name": "Y. Dorosh",
+    "institution": ""
+   },
+   {
+    "name": "Sh. Ibatullin",
+    "institution": ""
+   },
+   {
+    "name": "Yevhen Tarnopolskyi",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Mapping and Describing Geospatial Data to Generalize Complex Mapping and Describing Geospatial Data to Generalize Complex Models: The Case of LittoSIM-GEN Models",
+  "year": 2021,
+  "citations": 2,
+  "doi": "https://doi.org/10.48550/arxiv.2101.07523",
+  "authors": [
+   {
+    "name": "Ahmed Laatabi",
+    "institution": "Littoral, Environnement et Soci\u00e9t\u00e9s"
+   },
+   {
+    "name": "Nicolas B\u00e9cu",
+    "institution": "Littoral, Environnement et Soci\u00e9t\u00e9s"
+   },
+   {
+    "name": "Nicolas Marilleau",
+    "institution": "Unit\u00e9 de Mod\u00e9lisation Math\u00e9matique et Informatique des Syst\u00e8mes Complexes"
+   }
+  ]
+ },
+ {
+  "title": "GIS-Based Survey over the Public Transport Strategy: An Instrument for Economic and Sustainable Urban Traffic Planning",
+  "year": 2021,
+  "citations": 32,
+  "doi": "https://doi.org/10.3390/ijgi11010016",
+  "authors": [
+   {
+    "name": "Gabriela Droj",
+    "institution": "Technical University of Civil Engineering of Bucharest"
+   },
+   {
+    "name": "Droj Lauren\u0163iu",
+    "institution": "University of Oradea"
+   },
+   {
+    "name": "Ana-Cornelia Badea",
+    "institution": "Technical University of Civil Engineering of Bucharest"
+   }
+  ]
+ },
+ {
+  "title": "Serverless Geospatial Data Processing Workflow System Design",
+  "year": 2021,
+  "citations": 18,
+  "doi": "https://doi.org/10.3390/ijgi11010020",
+  "authors": [
+   {
+    "name": "Mete Ercan Pakdil",
+    "institution": "Istanbul Technical University"
+   },
+   {
+    "name": "Rahmi Nurhan \u00c7eli\u0307k",
+    "institution": "Istanbul Technical University"
+   }
+  ]
+ },
+ {
+  "title": "Artificial intelligence-powered spatial analysis and ChatGPT-driven interpretation of remote sensing and GIS data",
+  "year": 2024,
+  "citations": 25,
+  "doi": "https://doi.org/10.70593/978-81-981271-7-4_5",
+  "authors": [
+   {
+    "name": "Jayesh Rane",
+    "institution": ""
+   },
+   {
+    "name": "\u00d6mer Kaya",
+    "institution": "Erzurum Technical University"
+   },
+   {
+    "name": "Suraj Kumar Mallick",
+    "institution": "University of Delhi"
+   }
+  ]
+ },
+ {
+  "title": "Advances in geocomputation and geospatial artificial intelligence (GeoAI) for mapping",
+  "year": 2023,
+  "citations": 72,
+  "doi": "https://doi.org/10.1016/j.jag.2023.103300",
+  "authors": [
+   {
+    "name": "Yongze Song",
+    "institution": "Curtin University"
+   },
+   {
+    "name": "Margaret Kal\u00e1cska",
+    "institution": "McGill University"
+   },
+   {
+    "name": "Mateo Ga\u0161parovi\u0107",
+    "institution": "University of Zagreb"
+   }
+  ]
+ },
+ {
+  "title": "ClimateCharts.net \u2013 an interactive climate analysis web platform",
+  "year": 2020,
+  "citations": 168,
+  "doi": "https://doi.org/10.1080/17538947.2020.1829112",
+  "authors": [
+   {
+    "name": "Laura Zepner",
+    "institution": "TU Dresden"
+   },
+   {
+    "name": "Pierre Karrasch",
+    "institution": "TU Dresden"
+   },
+   {
+    "name": "Felix Wiemann",
+    "institution": "AED-SICAD (Germany)"
+   }
+  ]
+ },
+ {
+  "title": "Integration of Machine Learning Algorithms with Gompertz Curves and Kriging to Estimate Resources in Gold Deposits",
+  "year": 2020,
+  "citations": 32,
+  "doi": "https://doi.org/10.1007/s11053-020-09750-z",
+  "authors": [
+   {
+    "name": "Steven E. Zhang",
+    "institution": ""
+   },
+   {
+    "name": "Glen T. Nwaila",
+    "institution": "University of the Witwatersrand"
+   },
+   {
+    "name": "Leon Tolmay",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Development of a Methodology for Complex Monitoring of the Development of Urban and Suburban Areas Based on the Intellectual Analysis of Earth Remote Sensing Data and Geospatial Technologies",
+  "year": 2021,
+  "citations": 3,
+  "doi": "https://doi.org/10.1007/978-3-030-87034-8_29",
+  "authors": [
+   {
+    "name": "Vitaliy Malikov",
+    "institution": "Volgograd State Technical University"
+   },
+   {
+    "name": "Natalia Sadovnikova",
+    "institution": "Volgograd State Technical University"
+   },
+   {
+    "name": "\u0414\u0430\u043d\u0438\u043b\u0430 \u041f\u0430\u0440\u044b\u0433\u0438\u043d",
+    "institution": "Volgograd State Technical University"
+   }
+  ]
+ },
+ {
+  "title": "Fast Hyperspectral Image Dehazing With Dark-Object Subtraction Model",
+  "year": 2022,
+  "citations": 12,
+  "doi": "https://doi.org/10.1109/lgrs.2022.3217766",
+  "authors": [
+   {
+    "name": "Zhen Li",
+    "institution": "China Academy of Space Technology"
+   },
+   {
+    "name": "Puhong Duan",
+    "institution": "Hunan University"
+   },
+   {
+    "name": "Shangsong Hu",
+    "institution": "Hunan University"
+   }
+  ]
+ },
+ {
+  "title": "Convolution layer with nonlinear kernel of square of subtraction for dark-direction-free recognition of images",
+  "year": 2020,
+  "citations": 3,
+  "doi": "https://doi.org/10.21595/mme.2020.21552",
+  "authors": [
+   {
+    "name": "Hyoseob Kim",
+    "institution": ""
+   },
+   {
+    "name": "Hojun Yoo",
+    "institution": ""
+   },
+   {
+    "name": "Jung Lyul Lee",
+    "institution": "Sungkyunkwan University"
+   }
+  ]
+ },
+ {
+  "title": "Eliminating Vertical Fixed Pattern Noise in CMOS-Based Endoscopic Images using Modified Dark Frame Subtraction",
+  "year": 2023,
+  "citations": 1,
+  "doi": "https://doi.org/10.1109/memea57477.2023.10171876",
+  "authors": [
+   {
+    "name": "Ajay Kumar Gurrala",
+    "institution": "Indian Institute of Technology Madras"
+   },
+   {
+    "name": "Gs Rahul",
+    "institution": "Indian Institute of Technology Madras"
+   },
+   {
+    "name": "S Amalan",
+    "institution": "Indian Institute of Technology Madras"
+   }
+  ]
+ },
+ {
+  "title": "<i>Planck</i> 2018 results",
+  "year": 2020,
+  "citations": 13055,
+  "doi": "https://doi.org/10.1051/0004-6361/201833910",
+  "authors": [
+   {
+    "name": "N. Aghanim",
+    "institution": "Universit\u00e9 Paris-Sud"
+   },
+   {
+    "name": "Y. Akrami",
+    "institution": "Centre National de la Recherche Scientifique"
+   },
+   {
+    "name": "M. Ashdown",
+    "institution": "University of Cambridge"
+   }
+  ]
+ },
+ {
+  "title": "Impact of Various Atmospheric Corrections on Sentinel-2 Land Cover Classification Accuracy Using Machine Learning Classifiers",
+  "year": 2020,
+  "citations": 90,
+  "doi": "https://doi.org/10.3390/ijgi9040277",
+  "authors": [
+   {
+    "name": "Luka Rumora",
+    "institution": "University of Zagreb"
+   },
+   {
+    "name": "Mario Miler",
+    "institution": "University of Zagreb"
+   },
+   {
+    "name": "Damir Medak",
+    "institution": "University of Zagreb"
+   }
+  ]
+ },
+ {
+  "title": "GROWTH on S190814bv: Deep Synoptic Limits on the Optical/Near-infrared Counterpart to a Neutron Star\u2013Black Hole Merger",
+  "year": 2020,
+  "citations": 99,
+  "doi": "https://doi.org/10.3847/1538-4357/ab6a1b",
+  "authors": [
+   {
+    "name": "Igor Andreoni",
+    "institution": "California Institute of Technology"
+   },
+   {
+    "name": "D. A. Goldstein",
+    "institution": "California Institute of Technology"
+   },
+   {
+    "name": "M. M. Kasliwal",
+    "institution": "California Institute of Technology"
+   }
+  ]
+ },
+ {
+  "title": "Assessment of the image-based atmospheric correction of multispectral satellite images for geological mapping in arid and semi-arid regions",
+  "year": 2020,
+  "citations": 32,
+  "doi": "https://doi.org/10.1016/j.rsase.2020.100420",
+  "authors": [
+   {
+    "name": "Mohcine Chakouri",
+    "institution": "Universit\u00e9 Sultan Moulay Slimane"
+   },
+   {
+    "name": "Rachid Lhissou",
+    "institution": "Institut National de la Recherche Scientifique"
+   },
+   {
+    "name": "Abderrazak El Harti",
+    "institution": "Universit\u00e9 Sultan Moulay Slimane"
+   }
+  ]
+ },
+ {
+  "title": "New Horizons Observations of the Cosmic Optical Background",
+  "year": 2021,
+  "citations": 75,
+  "doi": "https://doi.org/10.3847/1538-4357/abc881",
+  "authors": [
+   {
+    "name": "Tod R. Lauer",
+    "institution": "NSF NOIRLab"
+   },
+   {
+    "name": "Marc Postman",
+    "institution": "Space Telescope Science Institute"
+   },
+   {
+    "name": "H. A. Weaver",
+    "institution": "Johns Hopkins University Applied Physics Laboratory"
+   }
+  ]
+ },
+ {
+  "title": "Speckle Pattern Inversion in High Temperature DIC Measurement",
+  "year": 2021,
+  "citations": 18,
+  "doi": "https://doi.org/10.1007/s40799-021-00481-1",
+  "authors": [
+   {
+    "name": "Thinh Thai",
+    "institution": "Van Lang University"
+   },
+   {
+    "name": "J. Ruesch",
+    "institution": "Utah State University"
+   },
+   {
+    "name": "Paul Gradl",
+    "institution": "Marshall Space Flight Center"
+   }
+  ]
+ },
+ {
+  "title": "Determination of the Normalized Difference Vegetation Index (NDVI) with Top-of-Canopy (TOC) Reflectance from a KOMPSAT-3A Image Using Orfeo ToolBox (OTB) Extension",
+  "year": 2020,
+  "citations": 27,
+  "doi": "https://doi.org/10.3390/ijgi9040257",
+  "authors": [
+   {
+    "name": "Kiwon Lee",
+    "institution": "Hansung University"
+   },
+   {
+    "name": "Kwangseob Kim",
+    "institution": "Hansung University"
+   },
+   {
+    "name": "Sun\u2010Gu Lee",
+    "institution": "Korea Aerospace Research Institute"
+   }
+  ]
+ },
+ {
+  "title": "GWTC-2: Compact Binary Coalescences Observed by LIGO and Virgo during the First Half of the Third Observing Run",
+  "year": 2021,
+  "citations": 1904,
+  "doi": "https://doi.org/10.1103/physrevx.11.021053",
+  "authors": [
+   {
+    "name": "R. Abbott",
+    "institution": "California Institute of Technology"
+   },
+   {
+    "name": "T.\u2009D. Abbott",
+    "institution": "Louisiana State University"
+   },
+   {
+    "name": "S. Abraham",
+    "institution": "Inter-University Centre for Astronomy and Astrophysics"
+   }
+  ]
+ },
+ {
+  "title": "Reaching for the Edge I: probing the outskirts of massive galaxies with HSC, DECaLS, SDSS, and Dragonfly",
+  "year": 2022,
+  "citations": 28,
+  "doi": "https://doi.org/10.1093/mnras/stac2121",
+  "authors": [
+   {
+    "name": "Jiaxuan Li",
+    "institution": ""
+   },
+   {
+    "name": "Song Huang",
+    "institution": ""
+   },
+   {
+    "name": "Alexie Leauthaud",
+    "institution": "University of California, Santa Cruz"
+   }
+  ]
+ },
+ {
+  "title": "IEEE Transactions on Geoscience and Remote Sensing",
+  "year": 2023,
+  "citations": 2273,
+  "doi": "https://doi.org/10.1109/tgrs.36",
+  "authors": []
+ },
+ {
+  "title": "Deep learning in environmental remote sensing: Achievements and challenges",
+  "year": 2020,
+  "citations": 1540,
+  "doi": "https://doi.org/10.1016/j.rse.2020.111716",
+  "authors": [
+   {
+    "name": "Qiangqiang Yuan",
+    "institution": "Wuhan University"
+   },
+   {
+    "name": "Huanfeng Shen",
+    "institution": "Wuhan University"
+   },
+   {
+    "name": "Tongwen Li",
+    "institution": "Wuhan University"
+   }
+  ]
+ },
+ {
+  "title": "Review on Convolutional Neural Networks (CNN) in vegetation remote sensing",
+  "year": 2021,
+  "citations": 1588,
+  "doi": "https://doi.org/10.1016/j.isprsjprs.2020.12.010",
+  "authors": [
+   {
+    "name": "Teja Kattenborn",
+    "institution": "Leipzig University"
+   },
+   {
+    "name": "Jens Leitloff",
+    "institution": "Karlsruhe Institute of Technology"
+   },
+   {
+    "name": "Felix Schiefer",
+    "institution": "Karlsruhe Institute of Technology"
+   }
+  ]
+ },
+ {
+  "title": "Applications of Remote Sensing in Precision Agriculture: A Review",
+  "year": 2020,
+  "citations": 1237,
+  "doi": "https://doi.org/10.3390/rs12193136",
+  "authors": [
+   {
+    "name": "Rajendra P. Sishodia",
+    "institution": "Prairie View A&M University"
+   },
+   {
+    "name": "Ram L. Ray",
+    "institution": "Prairie View A&M University"
+   },
+   {
+    "name": "Sudhir Kumar Singh",
+    "institution": "University of Allahabad"
+   }
+  ]
+ },
+ {
+  "title": "Journal of Remote Sensing",
+  "year": 2021,
+  "citations": 1048,
+  "doi": "https://doi.org/10.34133/remotesensing",
+  "authors": []
+ },
+ {
+  "title": "A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection",
+  "year": 2020,
+  "citations": 1590,
+  "doi": "https://doi.org/10.3390/rs12101662",
+  "authors": [
+   {
+    "name": "Hao Chen",
+    "institution": "Beihang University"
+   },
+   {
+    "name": "Zhenwei Shi",
+    "institution": "Beihang University"
+   }
+  ]
+ },
+ {
+  "title": "IEEE Geoscience and Remote Sensing Letters",
+  "year": 2023,
+  "citations": 1142,
+  "doi": "https://doi.org/10.1109/lgrs.8859",
+  "authors": []
+ },
+ {
+  "title": "A commentary review on the use of normalized difference vegetation index (NDVI) in the era of popular remote sensing",
+  "year": 2020,
+  "citations": 1443,
+  "doi": "https://doi.org/10.1007/s11676-020-01155-1",
+  "authors": [
+   {
+    "name": "Sha Huang",
+    "institution": "Purdue University West Lafayette"
+   },
+   {
+    "name": "Lina Tang",
+    "institution": "Chinese Academy of Sciences"
+   },
+   {
+    "name": "Joseph P. Hupy",
+    "institution": "Purdue University West Lafayette"
+   }
+  ]
+ },
+ {
+  "title": "Remote Sensing Image Change Detection With Transformers",
+  "year": 2021,
+  "citations": 950,
+  "doi": "https://doi.org/10.1109/tgrs.2021.3095166",
+  "authors": [
+   {
+    "name": "Hao Chen",
+    "institution": "Beihang University"
+   },
+   {
+    "name": "Zipeng Qi",
+    "institution": "Beihang University"
+   },
+   {
+    "name": "Zhenwei Shi",
+    "institution": "Beihang University"
+   }
+  ]
+ },
+ {
+  "title": "Introduction to the Physics and Techniques of Remote Sensing",
+  "year": 2021,
+  "citations": 569,
+  "doi": "https://doi.org/10.1002/9781119523048",
+  "authors": [
+   {
+    "name": "C. Elachi",
+    "institution": "California Institute of Technology"
+   },
+   {
+    "name": "J. van Zyl",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "More Diverse Means Better: Multimodal Deep Learning Meets Remote-Sensing Imagery Classification",
+  "year": 2020,
+  "citations": 1270,
+  "doi": "https://doi.org/10.1109/tgrs.2020.3016820",
+  "authors": [
+   {
+    "name": "Danfeng Hong",
+    "institution": "Institut polytechnique de Grenoble"
+   },
+   {
+    "name": "Lianru Gao",
+    "institution": "Chinese Academy of Sciences"
+   },
+   {
+    "name": "Naoto Yokoya",
+    "institution": "The University of Tokyo"
+   }
+  ]
+ },
+ {
+  "title": "Remote Sensing Image Scene Classification Meets Deep Learning: Challenges, Methods, Benchmarks, and Opportunities",
+  "year": 2020,
+  "citations": 906,
+  "doi": "https://doi.org/10.1109/jstars.2020.3005403",
+  "authors": [
+   {
+    "name": "Gong Cheng",
+    "institution": "Northwestern Polytechnical University"
+   },
+   {
+    "name": "Xingxing Xie",
+    "institution": "Northwestern Polytechnical University"
+   },
+   {
+    "name": "Junwei Han",
+    "institution": "Northwestern Polytechnical University"
+   }
+  ]
+ },
+ {
+  "title": "Disasters in the Complex Himalayan Terrains",
+  "year": 2022,
+  "citations": 13,
+  "doi": "https://doi.org/10.1007/978-3-030-89308-8_1",
+  "authors": [
+   {
+    "name": "Shruti Kanga",
+    "institution": "Gyan Vihar University"
+   },
+   {
+    "name": "Gowhar Meraj",
+    "institution": "Gyan Vihar University"
+   },
+   {
+    "name": "Majid Farooq",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Disaster Management in the Complex Himalayan Terrains",
+  "year": 2022,
+  "citations": 14,
+  "doi": "https://doi.org/10.1007/978-3-030-89308-8",
+  "authors": [
+   {
+    "name": "Kanga, Shruti",
+    "institution": ""
+   },
+   {
+    "name": "Meraj, Gowhar",
+    "institution": ""
+   },
+   {
+    "name": "Farooq, Majid",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Study of grid integrated biomass-based hybrid renewable energy systems for Himalayan terrain",
+  "year": 2020,
+  "citations": 28,
+  "doi": "https://doi.org/10.5278/ijsepm.3674",
+  "authors": [
+   {
+    "name": "Prashant Malik",
+    "institution": "National Institute of Technology Hamirpur"
+   },
+   {
+    "name": "Mamta Awasthi",
+    "institution": "National Institute of Technology Hamirpur"
+   },
+   {
+    "name": "Sunanda Sinha",
+    "institution": "Malaviya National Institute of Technology Jaipur"
+   }
+  ]
+ },
+ {
+  "title": "Assessing the effectiveness of alternative landslide partitioning in machine learning methods for landslide prediction in the complex Himalayan terrain",
+  "year": 2022,
+  "citations": 22,
+  "doi": "https://doi.org/10.1177/03091333221113660",
+  "authors": [
+   {
+    "name": "Muhammad Tayyib Riaz",
+    "institution": "University of Azad Jammu and Kashmir"
+   },
+   {
+    "name": "Muhammad Basharat",
+    "institution": "University of Azad Jammu and Kashmir"
+   },
+   {
+    "name": "Maria Teresa Brunetti",
+    "institution": "Research Institute for Geo-Hydrological Protection"
+   }
+  ]
+ },
+ {
+  "title": "Assessing the Performance of the Satellite-Based Precipitation Products (SPP) in the Data-Sparse Himalayan Terrain",
+  "year": 2022,
+  "citations": 23,
+  "doi": "https://doi.org/10.3390/rs14194810",
+  "authors": [
+   {
+    "name": "Sonu Kumar",
+    "institution": "Earth Observatory of Singapore"
+   },
+   {
+    "name": "Giriraj Amarnath",
+    "institution": "International Water Management Institute"
+   },
+   {
+    "name": "Surajit Ghosh",
+    "institution": "International Water Management Institute"
+   }
+  ]
+ },
+ {
+  "title": "Management of Landslides in a Rural\u2013Urban Transition Zone Using Machine Learning Algorithms\u2014A Case Study of a National Highway (NH-44), India, in the Rugged Himalayan Terrains",
+  "year": 2022,
+  "citations": 31,
+  "doi": "https://doi.org/10.3390/land11060884",
+  "authors": [
+   {
+    "name": "Mohsin Fayaz",
+    "institution": "B.S. Abdur Rahman Crescent Institute of Science & Technology"
+   },
+   {
+    "name": "Gowhar Meraj",
+    "institution": ""
+   },
+   {
+    "name": "Sheik Abdul Khader",
+    "institution": "B.S. Abdur Rahman Crescent Institute of Science & Technology"
+   }
+  ]
+ },
+ {
+  "title": "Landslide deformation and temporal prediction of slope failure in Himalayan terrain using PSInSAR and Sentinel-1 data",
+  "year": 2022,
+  "citations": 27,
+  "doi": "https://doi.org/10.1016/j.asr.2022.04.062",
+  "authors": [
+   {
+    "name": "Hari Shankar",
+    "institution": "Indian Institute of Remote Sensing"
+   },
+   {
+    "name": "Dharmendra Singh",
+    "institution": "Indian Institute of Technology Roorkee"
+   },
+   {
+    "name": "Prakash Chauhan",
+    "institution": "Indian Institute of Remote Sensing"
+   }
+  ]
+ },
+ {
+  "title": "Machine learning-based digital mapping of soil organic carbon and texture in the mid-Himalayan terrain",
+  "year": 2023,
+  "citations": 18,
+  "doi": "https://doi.org/10.1007/s10661-023-11608-9",
+  "authors": [
+   {
+    "name": "Nyenshu Seb Rengma",
+    "institution": "Motilal Nehru National Institute of Technology"
+   },
+   {
+    "name": "Manohar Yadav",
+    "institution": "Motilal Nehru National Institute of Technology"
+   },
+   {
+    "name": "Justin George Kalambukattu",
+    "institution": "Indian Institute of Remote Sensing"
+   }
+  ]
+ },
+ {
+  "title": "Empirical and finite element based stability analysis of highway cut slopes in Uttarakhand Himalayan terrain, India",
+  "year": 2020,
+  "citations": 12,
+  "doi": "https://doi.org/10.1186/s40703-020-00127-y",
+  "authors": [
+   {
+    "name": "Hari Om Singh",
+    "institution": "Indian Institute of Technology Bombay"
+   },
+   {
+    "name": "Tariq Anwar Ansari",
+    "institution": "Indian Institute of Technology Bombay"
+   },
+   {
+    "name": "T. N. Singh",
+    "institution": "Indian Institute of Technology Bombay"
+   }
+  ]
+ },
+ {
+  "title": "Hazards in the Perspective of Himalayan Terrain: A Review",
+  "year": 2022,
+  "citations": 5,
+  "doi": "https://doi.org/10.1007/978-3-030-89308-8_2",
+  "authors": [
+   {
+    "name": "Fayma Mushtaq",
+    "institution": ""
+   },
+   {
+    "name": "Afaan Gulzar Mantoo",
+    "institution": ""
+   },
+   {
+    "name": "Anamika Shalini Tirkey",
+    "institution": "Central University of Jharkhand"
+   }
+  ]
+ },
+ {
+  "title": "A Case Study on Assessing Cumulonimbus Induced Flight Vulnerabilities Over the Nepalese Himalayan Terrain",
+  "year": 2020,
+  "citations": 4,
+  "doi": "https://doi.org/10.1007/s00024-020-02541-w",
+  "authors": [
+   {
+    "name": "Anant Chandra",
+    "institution": "Delft University of Technology"
+   },
+   {
+    "name": "S. Ghosh",
+    "institution": "Vellore Institute of Technology University"
+   },
+   {
+    "name": "Neelay Doshi",
+    "institution": "Vellore Institute of Technology University"
+   }
+  ]
+ },
+ {
+  "title": "Application of Slope Mass Rating and Kinematic Analysis Along Road Cut Slopes in the Himalayan Terrain",
+  "year": 2022,
+  "citations": 7,
+  "doi": "https://doi.org/10.1007/978-981-16-9770-8_47",
+  "authors": [
+   {
+    "name": "Tariq Siddique",
+    "institution": "Aligarh Muslim University"
+   },
+   {
+    "name": "Mohammed Sazid",
+    "institution": "King Abdulaziz University"
+   },
+   {
+    "name": "Manoj Khandelwal",
+    "institution": "Federation University"
+   }
+  ]
+ },
+ {
+  "title": "Molecular dynamics simulations of heat transport using machine-learned potentials: A mini-review and tutorial on GPUMD with neuroevolution potentials",
+  "year": 2024,
+  "citations": 72,
+  "doi": "https://doi.org/10.1063/5.0200833",
+  "authors": [
+   {
+    "name": "Haikuan Dong",
+    "institution": "Bohai University"
+   },
+   {
+    "name": "Yongbo Shi",
+    "institution": "Bohai University"
+   },
+   {
+    "name": "Penghua Ying",
+    "institution": "Tel Aviv University"
+   }
+  ]
+ },
+ {
+  "title": "NeRF",
+  "year": 2021,
+  "citations": 4967,
+  "doi": "https://doi.org/10.1145/3503250",
+  "authors": [
+   {
+    "name": "Ben Mildenhall",
+    "institution": "Berkeley College"
+   },
+   {
+    "name": "Pratul P. Srinivasan",
+    "institution": "Berkeley College"
+   },
+   {
+    "name": "Matthew Tancik",
+    "institution": "Berkeley College"
+   }
+  ]
+ },
+ {
+  "title": "Edge-Cloud Collaboration Enabled Video Service Enhancement: A Hybrid Human-Artificial Intelligence Scheme",
+  "year": 2021,
+  "citations": 75,
+  "doi": "https://doi.org/10.1109/tmm.2021.3066050",
+  "authors": [
+   {
+    "name": "Dapeng Wu",
+    "institution": "Chongqing University of Posts and Telecommunications"
+   },
+   {
+    "name": "Ruili Bao",
+    "institution": "Chongqing University of Posts and Telecommunications"
+   },
+   {
+    "name": "Zhidu Li",
+    "institution": "Chongqing University of Posts and Telecommunications"
+   }
+  ]
+ },
+ {
+  "title": "The Personal Health Applications of Machine Learning Techniques in the Internet of Behaviors",
+  "year": 2023,
+  "citations": 86,
+  "doi": "https://doi.org/10.3390/su151612406",
+  "authors": [
+   {
+    "name": "Zahra Mohtasham\u2010Amiri",
+    "institution": "Islamic Azad University of Tabriz"
+   },
+   {
+    "name": "Arash Heidari",
+    "institution": "Hali\u00e7 University"
+   },
+   {
+    "name": "Mehdi Darbandi",
+    "institution": "Eastern Mediterranean University"
+   }
+  ]
+ },
+ {
+  "title": "Chebyshev Polynomial-Based Kolmogorov-Arnold Networks: An Efficient Architecture for Nonlinear Function Approximation",
+  "year": 2024,
+  "citations": 45,
+  "doi": "https://doi.org/10.48550/arxiv.2405.07200",
+  "authors": [
+   {
+    "name": "Sidharth SS",
+    "institution": ""
+   },
+   {
+    "name": "Rajeev Vidya Gokul",
+    "institution": ""
+   },
+   {
+    "name": "R, Gokul",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Image Pre-Processing Method of Machine Learning for Edge Detection with Image Signal Processor Enhancement",
+  "year": 2021,
+  "citations": 46,
+  "doi": "https://doi.org/10.3390/mi12010073",
+  "authors": [
+   {
+    "name": "Keumsun Park",
+    "institution": "Soongsil University"
+   },
+   {
+    "name": "Minah Chae",
+    "institution": "Soongsil University"
+   },
+   {
+    "name": "Jaehyuk Cho",
+    "institution": "Soongsil University"
+   }
+  ]
+ },
+ {
+  "title": "Enhancing Skin Cancer Diagnosis Using Swin Transformer with Hybrid Shifted Window-Based Multi-head Self-attention and SwiGLU-Based MLP",
+  "year": 2024,
+  "citations": 56,
+  "doi": "https://doi.org/10.1007/s10278-024-01140-8",
+  "authors": [
+   {
+    "name": "\u0130shak Pa\u00e7al",
+    "institution": "I\u011fd\u0131r \u00dcniversitesi"
+   },
+   {
+    "name": "Melek Alaftekin",
+    "institution": "I\u011fd\u0131r \u00dcniversitesi"
+   },
+   {
+    "name": "Ferhat D. Zengul",
+    "institution": "University of Alabama System"
+   }
+  ]
+ },
+ {
+  "title": "Employing a Machine Learning Approach to Detect Combined Internet of Things Attacks against Two Objective Functions Using a Novel Dataset",
+  "year": 2020,
+  "citations": 54,
+  "doi": "https://doi.org/10.1155/2020/2804291",
+  "authors": [
+   {
+    "name": "John Foley",
+    "institution": "Edinburgh Napier University"
+   },
+   {
+    "name": "Naghmeh Moradpoor",
+    "institution": "Edinburgh Napier University"
+   },
+   {
+    "name": "Henry Ochenyi",
+    "institution": "Edinburgh Napier University"
+   }
+  ]
+ },
+ {
+  "title": "HyperKAN: Kolmogorov\u2013Arnold Networks Make Hyperspectral Image Classifiers Smarter",
+  "year": 2024,
+  "citations": 32,
+  "doi": "https://doi.org/10.3390/s24237683",
+  "authors": [
+   {
+    "name": "Nikita Firsov",
+    "institution": "Samara National Research University"
+   },
+   {
+    "name": "Evgeny Myasnikov",
+    "institution": "Samara National Research University"
+   },
+   {
+    "name": "Valeriy Lobanov",
+    "institution": "Adyghe State University"
+   }
+  ]
+ },
+ {
+  "title": "Machine Learning: Algorithms, Real-World Applications and Research Directions",
+  "year": 2021,
+  "citations": 4688,
+  "doi": "https://doi.org/10.1007/s42979-021-00592-x",
+  "authors": [
+   {
+    "name": "Iqbal H. Sarker",
+    "institution": "Swinburne University of Technology"
+   }
+  ]
+ },
+ {
+  "title": "An IoT Intrusion Detection Approach Based on Salp Swarm and Artificial Neural Network",
+  "year": 2024,
+  "citations": 36,
+  "doi": "https://doi.org/10.1002/nem.2296",
+  "authors": [
+   {
+    "name": "Omar A. Alzubi",
+    "institution": "Al-Balqa Applied University"
+   },
+   {
+    "name": "Jafar A. Alzubi",
+    "institution": "Al-Balqa Applied University"
+   },
+   {
+    "name": "Issa Qiqieh",
+    "institution": "Al-Balqa Applied University"
+   }
+  ]
+ },
+ {
+  "title": "Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions",
+  "year": 2021,
+  "citations": 2258,
+  "doi": "https://doi.org/10.1007/s42979-021-00815-1",
+  "authors": [
+   {
+    "name": "Iqbal H. Sarker",
+    "institution": "Swinburne University of Technology"
+   }
+  ]
+ },
+ {
+  "title": "A novel machine learning approach for diagnosing diabetes with a self-explainable interface",
+  "year": 2024,
+  "citations": 75,
+  "doi": "https://doi.org/10.1016/j.health.2024.100301",
+  "authors": [
+   {
+    "name": "Gangani Dharmarathne",
+    "institution": "University of Sydney"
+   },
+   {
+    "name": "Thilini N. Jayasinghe",
+    "institution": "University of Sydney"
+   },
+   {
+    "name": "Madhusha Bogahawaththa",
+    "institution": "University of Canberra"
+   }
+  ]
+ },
+ {
+  "title": "An Intelligent and Explainable SaaS-Based Intrusion Detection System for Resource-Constrained IoMT",
+  "year": 2023,
+  "citations": 41,
+  "doi": "https://doi.org/10.1109/jiot.2023.3327024",
+  "authors": [
+   {
+    "name": "Ahamed Aljuhani",
+    "institution": "University of Tabuk"
+   },
+   {
+    "name": "Abdulelah Alamri",
+    "institution": "University of Tabuk"
+   },
+   {
+    "name": "Prabhat Kumar",
+    "institution": "Lappeenranta-Lahti University of Technology"
+   }
+  ]
+ },
+ {
+  "title": "Zero-Trust Marine Cyberdefense for IoT-Based Communications: An Explainable Approach",
+  "year": 2024,
+  "citations": 27,
+  "doi": "https://doi.org/10.3390/electronics13020276",
+  "authors": [
+   {
+    "name": "Ebuka Chinaechetam Nkoro",
+    "institution": "Kumoh National Institute of Technology"
+   },
+   {
+    "name": "Judith Nkechinyere Njoku",
+    "institution": "Kumoh National Institute of Technology"
+   },
+   {
+    "name": "Cosmas Ifeanyi Nwakanma",
+    "institution": "Kumoh National Institute of Technology"
+   }
+  ]
+ },
+ {
+  "title": "Monitoring multi-water quality of internationally important karst wetland through deep learning, multi-sensor and multi-platform remote sensing images: A case study of Guilin, China",
+  "year": 2023,
+  "citations": 67,
+  "doi": "https://doi.org/10.1016/j.ecolind.2023.110755",
+  "authors": [
+   {
+    "name": "Wenlan Yang",
+    "institution": "Guilin University of Technology"
+   },
+   {
+    "name": "Bolin Fu",
+    "institution": "Guilin University of Technology"
+   },
+   {
+    "name": "Sunzhe Li",
+    "institution": "Guilin University of Technology"
+   }
+  ]
+ },
+ {
+  "title": "From pixels to prognosis: unveiling radiomics models with SHAP and LIME for enhanced interpretability",
+  "year": 2024,
+  "citations": 44,
+  "doi": "https://doi.org/10.1088/2057-1976/ad34db",
+  "authors": [
+   {
+    "name": "S. Raptis",
+    "institution": "University of Thessaly"
+   },
+   {
+    "name": "Christos Ilioudis",
+    "institution": "International Hellenic University"
+   },
+   {
+    "name": "Kiriaki Theodorou",
+    "institution": "University of Thessaly"
+   }
+  ]
+ },
+ {
+  "title": "Prediction of Tuberculosis From Lung Tissue Images of Diversity Outbred Mice Using Jump Knowledge Based Cell Graph Neural Network",
+  "year": 2024,
+  "citations": 20,
+  "doi": "https://doi.org/10.1109/access.2024.3359989",
+  "authors": [
+   {
+    "name": "Vasundhara Acharya",
+    "institution": "Rensselaer Polytechnic Institute"
+   },
+   {
+    "name": "Diana Choi",
+    "institution": "Tufts University"
+   },
+   {
+    "name": "B\u00fclent Yener",
+    "institution": "Rensselaer Polytechnic Institute"
+   }
+  ]
+ },
+ {
+  "title": "Identifying and Understanding Student Dropouts Using Metaheuristic Optimized Classifiers and Explainable Artificial Intelligence Techniques",
+  "year": 2024,
+  "citations": 28,
+  "doi": "https://doi.org/10.1109/access.2024.3446653",
+  "authors": [
+   {
+    "name": "Goran Radic",
+    "institution": ""
+   },
+   {
+    "name": "Luka Jovanovi\u0107",
+    "institution": "Singidunum University"
+   },
+   {
+    "name": "Neboj\u0161a Ba\u010danin",
+    "institution": "Singidunum University"
+   }
+  ]
+ },
+ {
+  "title": "Improving Churn Detection in the Banking Sector: A Machine Learning Approach with Probability Calibration Techniques",
+  "year": 2024,
+  "citations": 15,
+  "doi": "https://doi.org/10.3390/electronics13224527",
+  "authors": [
+   {
+    "name": "Alin-Gabriel V\u0103duva",
+    "institution": "Bucharest University of Economic Studies"
+   },
+   {
+    "name": "Simona\u2010Vasilica Oprea",
+    "institution": "Bucharest University of Economic Studies"
+   },
+   {
+    "name": "Andreea-Mihaela Niculae",
+    "institution": "Bucharest University of Economic Studies"
+   }
+  ]
+ },
+ {
+  "title": "Improved Prediction of Ovarian Cancer Using Ensemble Classifier and Shaply Explainable AI",
+  "year": 2023,
+  "citations": 20,
+  "doi": "https://doi.org/10.3390/cancers15245793",
+  "authors": [
+   {
+    "name": "Nihal Abuzinadah",
+    "institution": "King Abdulaziz University"
+   },
+   {
+    "name": "Sarath Kumar Posa",
+    "institution": "University of Arkansas at Little Rock"
+   },
+   {
+    "name": "Aisha Ahmed Alarfaj",
+    "institution": "Princess Nourah bint Abdulrahman University"
+   }
+  ]
+ },
+ {
+  "title": "Deep learning in cancer diagnosis, prognosis and treatment selection",
+  "year": 2021,
+  "citations": 832,
+  "doi": "https://doi.org/10.1186/s13073-021-00968-x",
+  "authors": [
+   {
+    "name": "Khoa Tran",
+    "institution": "QIMR Berghofer Medical Research Institute"
+   },
+   {
+    "name": "Olga Kondrashova",
+    "institution": "QIMR Berghofer Medical Research Institute"
+   },
+   {
+    "name": "Andrew P. Bradley",
+    "institution": "Queensland University of Technology"
+   }
+  ]
+ },
+ {
+  "title": "XAI-IDS: A Transparent and Interpretable Framework for Robust Cybersecurity Using Explainable Artificial Intelligence",
+  "year": 2025,
+  "citations": 14,
+  "doi": "https://doi.org/10.70470/shifra/2025/004",
+  "authors": [
+   {
+    "name": "Said A. Salloum",
+    "institution": "University of Salford"
+   },
+   {
+    "name": "Sajedeh Norozpour",
+    "institution": "Geli\u015fim \u00dcniversitesi"
+   }
+  ]
+ },
+ {
+  "title": "Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models",
+  "year": 2021,
+  "citations": 570,
+  "doi": "https://doi.org/10.1186/s13321-020-00479-8",
+  "authors": [
+   {
+    "name": "Dejun Jiang",
+    "institution": "Zhejiang University"
+   },
+   {
+    "name": "Zhenhua Wu",
+    "institution": "Zhejiang Lab"
+   },
+   {
+    "name": "Chang\u2010Yu Hsieh",
+    "institution": "Tencent (China)"
+   }
+  ]
+ },
+ {
+  "title": "\u201cEnsembled transfer learning approach for error reduction in landslide susceptibility mapping of the data scare region\u201d",
+  "year": 2024,
+  "citations": 17,
+  "doi": "https://doi.org/10.1038/s41598-024-76541-4",
+  "authors": [
+   {
+    "name": "Ankit Singh",
+    "institution": "Indian Institute of Technology Mandi"
+   },
+   {
+    "name": "Nitesh Dhiman",
+    "institution": "Indian Institute of Technology Mandi"
+   },
+   {
+    "name": "K. C. Niraj",
+    "institution": "Tribhuvan University"
+   }
+  ]
+ },
+ {
+  "title": "Dynamics and future prediction of LULC on Pare River basin of Arunachal Pradesh using machine learning techniques",
+  "year": 2023,
+  "citations": 19,
+  "doi": "https://doi.org/10.1007/s10661-023-11280-z",
+  "authors": [
+   {
+    "name": "Sameer Mandal",
+    "institution": "North Eastern Regional Institute of Science and Technology"
+   },
+   {
+    "name": "Arnab Bandyopadhyay",
+    "institution": "North Eastern Regional Institute of Science and Technology"
+   },
+   {
+    "name": "Aditi Bhadra",
+    "institution": "North Eastern Regional Institute of Science and Technology"
+   }
+  ]
+ },
+ {
+  "title": "Deep learning-based landslide susceptibility mapping",
+  "year": 2021,
+  "citations": 358,
+  "doi": "https://doi.org/10.1038/s41598-021-03585-1",
+  "authors": [
+   {
+    "name": "Mohammad Azarafza",
+    "institution": "University of Tabriz"
+   },
+   {
+    "name": "Mehdi Azarafza",
+    "institution": "University of Tabriz"
+   },
+   {
+    "name": "Haluk Akg\u00fcn",
+    "institution": "Middle East Technical University"
+   }
+  ]
+ },
+ {
+  "title": "Modeling Pan Evaporation Using Gaussian Process Regression K-Nearest Neighbors Random Forest and Support Vector Machines; Comparative Analysis",
+  "year": 2020,
+  "citations": 187,
+  "doi": "https://doi.org/10.3390/atmos11010066",
+  "authors": [
+   {
+    "name": "Sevda Shabani",
+    "institution": "University of Tabriz"
+   },
+   {
+    "name": "Saeed Samadianfard",
+    "institution": "University of Tabriz"
+   },
+   {
+    "name": "Mohammad Taghi Sattari",
+    "institution": "Ankara University"
+   }
+  ]
+ },
+ {
+  "title": "Simulation of DEM Based on ICESat-2 Data Using Openly Accessible Topographic Datasets",
+  "year": 2023,
+  "citations": 1,
+  "doi": "https://doi.org/10.3390/ecrs2023-16189",
+  "authors": [
+   {
+    "name": "Shruti Pancholi",
+    "institution": "Indian Institute of Remote Sensing"
+   },
+   {
+    "name": "A. Abhinav",
+    "institution": "Indian Institute of Remote Sensing"
+   },
+   {
+    "name": "Sandeep Maithani",
+    "institution": "Indian Institute of Remote Sensing"
+   }
+  ]
+ },
+ {
+  "title": "Comparisons of Diverse Machine Learning Approaches for Wildfire Susceptibility Mapping",
+  "year": 2020,
+  "citations": 132,
+  "doi": "https://doi.org/10.3390/sym12040604",
+  "authors": [
+   {
+    "name": "Khalil Gholamnia",
+    "institution": "University of Tabriz"
+   },
+   {
+    "name": "Thimmaiah Gudiyangada Nachappa",
+    "institution": "University of Salzburg"
+   },
+   {
+    "name": "Omid Ghorbanzadeh",
+    "institution": "University of Salzburg"
+   }
+  ]
+ },
+ {
+  "title": "Landslide susceptibility mapping using an entropy index-based negative sample selection strategy: A case study of Luolong county",
+  "year": 2025,
+  "citations": 1,
+  "doi": "https://doi.org/10.1371/journal.pone.0322566",
+  "authors": [
+   {
+    "name": "Yuzhong Kong",
+    "institution": "Tibet University"
+   },
+   {
+    "name": "Wu Hua",
+    "institution": "Tibet University"
+   },
+   {
+    "name": "Chong Xu",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Riverside Landslide Susceptibility Overview: Leveraging Artificial Neural Networks and Machine Learning in Accordance with the United Nations (UN) Sustainable Development Goals",
+  "year": 2023,
+  "citations": 148,
+  "doi": "https://doi.org/10.3390/w15152707",
+  "authors": [
+   {
+    "name": "Yaser A. Nanehkaran",
+    "institution": "Yancheng Teachers University"
+   },
+   {
+    "name": "Biyun Chen",
+    "institution": "Yancheng Teachers University"
+   },
+   {
+    "name": "Ahmed Cemiloglu",
+    "institution": "Yancheng Teachers University"
+   }
+  ]
+ },
+ {
+  "title": "Machine learning and landslide studies: recent advances and applications",
+  "year": 2022,
+  "citations": 230,
+  "doi": "https://doi.org/10.1007/s11069-022-05423-7",
+  "authors": [
+   {
+    "name": "Faraz S. Tehrani",
+    "institution": "Deltares"
+   },
+   {
+    "name": "Michele Calvello",
+    "institution": "University of Salerno"
+   },
+   {
+    "name": "Zhongqiang Liu",
+    "institution": "Norwegian Geotechnical Institute"
+   }
+  ]
+ },
+ {
+  "title": "Comparative Analysis of Machine Learning Methods for Imputing Missing Daily Rainfall Data in Complex Himalayan Terrain",
+  "year": 2025,
+  "citations": 1,
+  "doi": "https://doi.org/10.1002/joc.70122",
+  "authors": [
+   {
+    "name": "Rahul Sharma",
+    "institution": "Jawaharlal Nehru University"
+   },
+   {
+    "name": "S. Sreekesh",
+    "institution": "Jawaharlal Nehru University"
+   }
+  ]
+ },
+ {
+  "title": "Spread of SARS-CoV-2 Coronavirus likely constrained by climate",
+  "year": 2020,
+  "citations": 246,
+  "doi": "https://doi.org/10.1101/2020.03.12.20034728",
+  "authors": [
+   {
+    "name": "Miguel B. Ara\u00fajo",
+    "institution": "University of \u00c9vora"
+   },
+   {
+    "name": "Babak Naimi",
+    "institution": "University of Helsinki"
+   }
+  ]
+ },
+ {
+  "title": "Application of Artificial Intelligence in Predicting Earthquakes: State-of-the-Art and Future Challenges",
+  "year": 2020,
+  "citations": 142,
+  "doi": "https://doi.org/10.1109/access.2020.3029859",
+  "authors": [
+   {
+    "name": "Md. Hasan Al Banna",
+    "institution": "Bangladesh University of Professionals"
+   },
+   {
+    "name": "Kazi Abu Taher",
+    "institution": "Bangladesh University of Professionals"
+   },
+   {
+    "name": "M. Shamim Kaiser",
+    "institution": "Jahangirnagar University"
+   }
+  ]
+ },
+ {
+  "title": "Enhancing landslide susceptibility predictions with XGBoost and SHAP: a data-driven explainable AI method",
+  "year": 2025,
+  "citations": 16,
+  "doi": "https://doi.org/10.1080/10106049.2025.2514725",
+  "authors": [
+   {
+    "name": "Danish Khan",
+    "institution": "Aligarh Muslim University"
+   },
+   {
+    "name": "Wasim Akram",
+    "institution": "Aligarh Muslim University"
+   },
+   {
+    "name": "Sajid Ullah",
+    "institution": "Nangarhar University"
+   }
+  ]
+ },
+ {
+  "title": "Assessing Machine Learning and Statistical Methods for Rock Glacier\u2010Based Permafrost Distribution in Northern Kargil Region",
+  "year": 2024,
+  "citations": 17,
+  "doi": "https://doi.org/10.1002/ppp.2240",
+  "authors": [
+   {
+    "name": "Kirti Kumar Mahanta",
+    "institution": "Indian Institute of Technology Mandi"
+   },
+   {
+    "name": "Ipshita Priyadarsini Pradhan",
+    "institution": "Indian Institute of Technology Mandi"
+   },
+   {
+    "name": "Sharad Kumar Gupta",
+    "institution": "Helmholtz Centre for Environmental Research"
+   }
+  ]
+ },
+ {
+  "title": "Overview of Covid-19; its prevention and management in the light of Unani medicine",
+  "year": 2020,
+  "citations": 148,
+  "doi": "https://doi.org/10.1016/j.scitotenv.2020.138859",
+  "authors": [
+   {
+    "name": "Sadia Nikhat",
+    "institution": "Jamia Hamdard"
+   },
+   {
+    "name": "Mohammad Fazil",
+    "institution": "Central Council for Research in Unani Medicine"
+   }
+  ]
+ },
+ {
+  "title": "Rock Mass Classification in TBM Tunneling using Artificial Neural Network Techniques: A Case Study from Siwalik\u00a0Region\u00a0of\u00a0Nepal",
+  "year": 2025,
+  "citations": 2,
+  "doi": "https://doi.org/10.3126/jes2.v4i1.75824",
+  "authors": [
+   {
+    "name": "Shrawan Lamsal",
+    "institution": "Institute of Engineering"
+   },
+   {
+    "name": "Krishna Kanta Panthi",
+    "institution": "Norwegian University of Science and Technology"
+   },
+   {
+    "name": "Tek Bahadur Katuwal",
+    "institution": "Norwegian University of Science and Technology"
+   }
+  ]
+ },
+ {
+  "title": "Status and consolidated list of threatened medicinal plants of India",
+  "year": 2021,
+  "citations": 157,
+  "doi": "https://doi.org/10.1007/s10722-021-01199-0",
+  "authors": [
+   {
+    "name": "R. Gowthami",
+    "institution": "National Bureau of Plant Genetic Resources"
+   },
+   {
+    "name": "Neelam Sharma",
+    "institution": "National Bureau of Plant Genetic Resources"
+   },
+   {
+    "name": "Ruchira Pandey",
+    "institution": "National Bureau of Plant Genetic Resources"
+   }
+  ]
+ },
+ {
+  "title": "FDRL: a data-driven algorithm for forecasting subsidence velocities in Himalayas using conventional and traditional soil features",
+  "year": 2025,
+  "citations": 1,
+  "doi": "https://doi.org/10.1038/s41598-025-12932-5",
+  "authors": [
+   {
+    "name": "Sahil Sankhyan",
+    "institution": "Indian Institute of Technology Mandi"
+   },
+   {
+    "name": "Ajoy Kumar",
+    "institution": "Indian Institute of Technology Mandi"
+   },
+   {
+    "name": "Praveen Kumar",
+    "institution": "Indian Institute of Technology Mandi"
+   }
+  ]
+ },
+ {
+  "title": "Carefully Choose the Baseline: Lessons Learned from Applying XAI Attribution Methods for Regression Tasks in Geoscience",
+  "year": 2022,
+  "citations": 35,
+  "doi": "https://doi.org/10.1175/aies-d-22-0058.1",
+  "authors": [
+   {
+    "name": "Antonios Mamalakis",
+    "institution": "Colorado State University"
+   },
+   {
+    "name": "Elizabeth A. Barnes",
+    "institution": "Colorado State University"
+   },
+   {
+    "name": "Imme Ebert\u2010Uphoff",
+    "institution": "Colorado State University"
+   }
+  ]
+ },
+ {
+  "title": "Land use and land cover (LULC) performance modeling using machine learning algorithms: a case study of the\u00a0city of Melbourne, Australia",
+  "year": 2023,
+  "citations": 91,
+  "doi": "https://doi.org/10.1038/s41598-023-40564-0",
+  "authors": [
+   {
+    "name": "Jagannath Aryal",
+    "institution": "The University of Melbourne"
+   },
+   {
+    "name": "Chiranjibi Sitaula",
+    "institution": "The University of Melbourne"
+   },
+   {
+    "name": "Alejandro C. Frery",
+    "institution": "Victoria University of Wellington"
+   }
+  ]
+ },
+ {
+  "title": "Landslide susceptibility modeling by interpretable neural network",
+  "year": 2023,
+  "citations": 83,
+  "doi": "https://doi.org/10.1038/s43247-023-00806-5",
+  "authors": [
+   {
+    "name": "Khalid Youssef",
+    "institution": "University of California, Los Angeles"
+   },
+   {
+    "name": "Kun Shao",
+    "institution": "Planetary Science Institute"
+   },
+   {
+    "name": "Seulgi Moon",
+    "institution": "University of California, Los Angeles"
+   }
+  ]
+ },
+ {
+  "title": "SHAP value-based ERP analysis (SHERPA): Increasing the sensitivity of EEG signals with explainable AI methods",
+  "year": 2024,
+  "citations": 34,
+  "doi": "https://doi.org/10.3758/s13428-023-02335-7",
+  "authors": [
+   {
+    "name": "Sophia Sylvester",
+    "institution": "Osnabr\u00fcck University"
+   },
+   {
+    "name": "Merle Sagehorn",
+    "institution": "Osnabr\u00fcck University"
+   },
+   {
+    "name": "Thomas Gruber",
+    "institution": "Osnabr\u00fcck University"
+   }
+  ]
+ },
+ {
+  "title": "A New Graph-Based Deep Learning Model to Predict Flooding with Validation on a Case Study on the Humber River",
+  "year": 2023,
+  "citations": 28,
+  "doi": "https://doi.org/10.3390/w15101827",
+  "authors": [
+   {
+    "name": "Victor Oliveira Santos",
+    "institution": "University of Guelph"
+   },
+   {
+    "name": "Paulo Alexandre Costa Rocha",
+    "institution": "University of Guelph"
+   },
+   {
+    "name": "John Scott",
+    "institution": "Lakes Environmental (Canada)"
+   }
+  ]
+ },
+ {
+  "title": "Traditional Use of Wild and Domestic Fauna among Different Ethnic Groups in the Western Himalayas\u2014A Cross Cultural Analysis",
+  "year": 2022,
+  "citations": 42,
+  "doi": "https://doi.org/10.3390/ani12172276",
+  "authors": [
+   {
+    "name": "Musheerul Hassan",
+    "institution": "Ilia State University"
+   },
+   {
+    "name": "Shiekh Marifatul Haq",
+    "institution": ""
+   },
+   {
+    "name": "Riyaz Ahmad",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Evaluation of global terrestrial evapotranspiration using state-of-the-art approaches in remote sensing, machine learning and land surface modeling",
+  "year": 2020,
+  "citations": 323,
+  "doi": "https://doi.org/10.5194/hess-24-1485-2020",
+  "authors": [
+   {
+    "name": "Shufen Pan",
+    "institution": "Auburn University"
+   },
+   {
+    "name": "Naiqing Pan",
+    "institution": "Chinese Academy of Sciences"
+   },
+   {
+    "name": "Hanqin Tian",
+    "institution": "Auburn University"
+   }
+  ]
+ },
+ {
+  "title": "Monitoring inland water quality using remote sensing: potential and limitations of spectral indices, bio-optical simulations, machine learning, and cloud computing",
+  "year": 2020,
+  "citations": 589,
+  "doi": "https://doi.org/10.1016/j.earscirev.2020.103187",
+  "authors": [
+   {
+    "name": "Vasit Sagan",
+    "institution": "Saint Louis University"
+   },
+   {
+    "name": "Kyle T. Peterson",
+    "institution": "Saint Louis University"
+   },
+   {
+    "name": "Maitiniyazi Maimaitijiang",
+    "institution": "Saint Louis University"
+   }
+  ]
+ },
+ {
+  "title": "Review on remote sensing methods for landslide detection using machine and deep learning",
+  "year": 2020,
+  "citations": 295,
+  "doi": "https://doi.org/10.1002/ett.3998",
+  "authors": [
+   {
+    "name": "Amrita Mohan",
+    "institution": "Motilal Nehru National Institute of Technology"
+   },
+   {
+    "name": "Amit Kumar Singh",
+    "institution": "National Institute of Technology Patna"
+   },
+   {
+    "name": "Basant Kumar",
+    "institution": "Motilal Nehru National Institute of Technology"
+   }
+  ]
+ },
+ {
+  "title": "Remote sensing and machine learning for crop water stress determination in various crops: a critical review",
+  "year": 2020,
+  "citations": 307,
+  "doi": "https://doi.org/10.1007/s11119-020-09711-9",
+  "authors": [
+   {
+    "name": "Shyamal S. Virnodkar",
+    "institution": "Savitribai Phule Pune University"
+   },
+   {
+    "name": "Vinod Pachghare",
+    "institution": "Savitribai Phule Pune University"
+   },
+   {
+    "name": "V. C. Patil",
+    "institution": ""
+   }
+  ]
+ },
+ {
+  "title": "Mapping snow cover in forests using optical remote sensing, machine learning and time-lapse photography",
+  "year": 2022,
+  "citations": 42,
+  "doi": "https://doi.org/10.1016/j.rse.2022.113017",
+  "authors": [
+   {
+    "name": "Jianfeng Luo",
+    "institution": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)"
+   },
+   {
+    "name": "Chunyu Dong",
+    "institution": "Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai)"
+   },
+   {
+    "name": "Kairong Lin",
+    "institution": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)"
+   }
+  ]
+ },
+ {
+  "title": "A Systematic Review of Urban Flood Susceptibility Mapping: Remote Sensing, Machine Learning, and Other Modeling Approaches",
+  "year": 2025,
+  "citations": 35,
+  "doi": "https://doi.org/10.3390/rs17030524",
+  "authors": [
+   {
+    "name": "Tania Islam",
+    "institution": "Florida International University"
+   },
+   {
+    "name": "Ethiopia B. Zeleke",
+    "institution": "Florida International University"
+   },
+   {
+    "name": "Mahmud Afroz",
+    "institution": "University of Arkansas at Fayetteville"
+   }
+  ]
+ },
+ {
+  "title": "Machine learning and remote sensing integration for leveraging urban sustainability: A review and framework",
+  "year": 2023,
+  "citations": 194,
+  "doi": "https://doi.org/10.1016/j.scs.2023.104653",
+  "authors": [
+   {
+    "name": "Fei Li",
+    "institution": "Queensland University of Technology"
+   },
+   {
+    "name": "Tan Yi\u011fitcanlar",
+    "institution": "Queensland University of Technology"
+   },
+   {
+    "name": "Madhav Prasad Nepal",
+    "institution": "Queensland University of Technology"
+   }
+  ]
+ },
+ {
+  "title": "A survey of machine learning and deep learning in remote sensing of geological environment: Challenges, advances, and opportunities",
+  "year": 2023,
+  "citations": 238,
+  "doi": "https://doi.org/10.1016/j.isprsjprs.2023.05.032",
+  "authors": [
+   {
+    "name": "Wei Han",
+    "institution": "China University of Geosciences"
+   },
+   {
+    "name": "Xiaohan Zhang",
+    "institution": "China University of Geosciences"
+   },
+   {
+    "name": "Yi Wang",
+    "institution": "China University of Geosciences"
+   }
+  ]
+ },
+ {
+  "title": "Improving Unmanned Aerial Vehicle Remote Sensing-Based Rice Nitrogen Nutrition Index Prediction with Machine Learning",
+  "year": 2020,
+  "citations": 246,
+  "doi": "https://doi.org/10.3390/rs12020215",
+  "authors": [
+   {
+    "name": "Hainie Zha",
+    "institution": "China Agricultural University"
+   },
+   {
+    "name": "Yuxin Miao",
+    "institution": "University of Minnesota"
+   },
+   {
+    "name": "Tiantian Wang",
+    "institution": "China Agricultural University"
+   }
+  ]
+ },
+ {
+  "title": "OpenStreetMap: Challenges and Opportunities in Machine Learning and Remote Sensing",
+  "year": 2020,
+  "citations": 151,
+  "doi": "https://doi.org/10.1109/mgrs.2020.2994107",
+  "authors": [
+   {
+    "name": "John E. Vargas-Munoz",
+    "institution": "Universidade Estadual de Campinas (UNICAMP)"
+   },
+   {
+    "name": "Shivangi Srivastava",
+    "institution": "Wageningen University & Research"
+   },
+   {
+    "name": "Devis Tuia",
+    "institution": "Wageningen University & Research"
+   }
+  ]
+ },
+ {
+  "title": "Responding to Large-Scale Forest Damage in an Alpine Environment with Remote Sensing, Machine Learning, and Web-GIS",
+  "year": 2021,
+  "citations": 29,
+  "doi": "https://doi.org/10.3390/rs13081541",
+  "authors": [
+   {
+    "name": "Marco Piragnolo",
+    "institution": "University of Padua"
+   },
+   {
+    "name": "Francesco Pirotti",
+    "institution": "University of Padua"
+   },
+   {
+    "name": "Carlo Zanrosso",
+    "institution": "University of Padua"
+   }
+  ]
+ },
+ {
+  "title": "Application of remote sensing and machine learning algorithms for forest fire mapping in a Mediterranean area",
+  "year": 2021,
+  "citations": 312,
+  "doi": "https://doi.org/10.1016/j.ecolind.2021.107869",
+  "authors": [
+   {
+    "name": "Meriame Mohajane",
+    "institution": "Universit\u00e9 Moulay Ismail de Meknes"
+   },
+   {
+    "name": "Romulus Costache",
+    "institution": "Transylvania University of Bra\u0219ov"
+   },
+   {
+    "name": "Firoozeh Karimi",
+    "institution": "University of North Carolina at Greensboro"
+   }
+  ]
+ },
+ {
+  "title": "Integrating GIS, deep learning, and environmental sensors for multicriteria evaluation of urban street walkability",
+  "year": 2022,
+  "citations": 81,
+  "doi": "https://doi.org/10.1016/j.landurbplan.2022.104603",
+  "authors": [
+   {
+    "name": "Yunqin Li",
+    "institution": "Nanchang University"
+   },
+   {
+    "name": "Nobuyoshi Yabuki",
+    "institution": "Osaka University"
+   },
+   {
+    "name": "Tomohiro Fukuda",
+    "institution": "Osaka University"
+   }
+  ]
+ },
+ {
+  "title": "Enhancing rooftop solar energy potential evaluation in high-density cities: A Deep Learning and GIS based approach",
+  "year": 2023,
+  "citations": 68,
+  "doi": "https://doi.org/10.1016/j.enbuild.2023.113743",
+  "authors": [
+   {
+    "name": "H. F. Ni",
+    "institution": "Shanghai Tongji Urban Planning and Design Institute"
+   },
+   {
+    "name": "D Wang",
+    "institution": "Tongji University"
+   },
+   {
+    "name": "Wenzhuo Zhao",
+    "institution": "Tongji University"
+   }
+  ]
+ },
+ {
+  "title": "An integrated deep learning-based approach for automobile maintenance prediction with GIS data",
+  "year": 2021,
+  "citations": 44,
+  "doi": "https://doi.org/10.1016/j.ress.2021.107919",
+  "authors": [
+   {
+    "name": "Chong Chen",
+    "institution": "Guangdong University of Technology"
+   },
+   {
+    "name": "Ying Liu",
+    "institution": "Cardiff University"
+   },
+   {
+    "name": "Xianfang Sun",
+    "institution": "Cardiff University"
+   }
+  ]
+ },
+ {
+  "title": "Automatic Detection of Cracks in Asphalt Pavement Using Deep Learning to Overcome Weaknesses in Images and GIS Visualization",
+  "year": 2021,
+  "citations": 56,
+  "doi": "https://doi.org/10.3390/app11030892",
+  "authors": [
+   {
+    "name": "Pang\u2010jo Chun",
+    "institution": "The University of Tokyo"
+   },
+   {
+    "name": "Tatsuro Yamane",
+    "institution": "The University of Tokyo"
+   },
+   {
+    "name": "Yukino Tsuzuki",
+    "institution": "Ehime University"
+   }
+  ]
+ },
+ {
+  "title": "Automated building damage assessment and large\u2010scale mapping by integrating satellite imagery, GIS, and deep learning",
+  "year": 2024,
+  "citations": 43,
+  "doi": "https://doi.org/10.1111/mice.13197",
+  "authors": [
+   {
+    "name": "Abdullah M. Braik",
+    "institution": "Texas A&M University"
+   },
+   {
+    "name": "Maria Koliou",
+    "institution": "Texas A&M University"
+   }
+  ]
+ },
+ {
+  "title": "Automatic Volume Calculation and Mapping of Construction and Demolition Debris Using Drones, Deep Learning, and GIS",
+  "year": 2022,
+  "citations": 46,
+  "doi": "https://doi.org/10.3390/drones6100279",
+  "authors": [
+   {
+    "name": "Yuhan Jiang",
+    "institution": "North Carolina Agricultural and Technical State University"
+   },
+   {
+    "name": "Yilei Huang",
+    "institution": "East Carolina University"
+   },
+   {
+    "name": "Jingkuang Liu",
+    "institution": "Guangzhou University"
+   }
+  ]
+ },
+ {
+  "title": "A Novel Method Based on Deep Learning, GIS and Geomatics Software for Building a 3D City Model from VHR Satellite Stereo Imagery",
+  "year": 2021,
+  "citations": 51,
+  "doi": "https://doi.org/10.3390/ijgi10100697",
+  "authors": [
+   {
+    "name": "Massimiliano Pepe",
+    "institution": "Polytechnic University of Bari"
+   },
+   {
+    "name": "Domenica Costantino",
+    "institution": "Polytechnic University of Bari"
+   },
+   {
+    "name": "Vincenzo Saverio Alfio",
+    "institution": "Polytechnic University of Bari"
+   }
+  ]
+ },
+ {
+  "title": "GeoAI: Integration of Artificial Intelligence, Machine Learning, and Deep Learning with GIS",
+  "year": 2023,
+  "citations": 35,
+  "doi": "https://doi.org/10.3390/app13063895",
+  "authors": [
+   {
+    "name": "Yosoon Choi",
+    "institution": "Pukyong National University"
+   }
+  ]
+ },
+ {
+  "title": "Evaluation of Groundwater Quality for Irrigation in Deep Aquifers Using Multiple Graphical and Indexing Approaches Supported with Machine Learning Models and GIS Techniques, Souf Valley, Algeria",
+  "year": 2023,
+  "citations": 100,
+  "doi": "https://doi.org/10.3390/w15010182",
+  "authors": [
+   {
+    "name": "Mohamed Hamdy Eid",
+    "institution": "Beni-Suef University"
+   },
+   {
+    "name": "Mohssen Elbagory",
+    "institution": "King Khalid University"
+   },
+   {
+    "name": "Ahmed A. Tamma",
+    "institution": "Institute of Environmental Engineering"
+   }
+  ]
+ },
+ {
+  "title": "Optimizing GIS partial discharge pattern recognition in the ubiquitous power internet of things context: A MixNet deep learning model",
+  "year": 2020,
+  "citations": 69,
+  "doi": "https://doi.org/10.1016/j.ijepes.2020.106484",
+  "authors": [
+   {
+    "name": "Yanxin Wang",
+    "institution": "Xi'an Jiaotong University"
+   },
+   {
+    "name": "Jing Yan",
+    "institution": "Xi'an Jiaotong University"
+   },
+   {
+    "name": "Zhou Yang",
+    "institution": "Xi'an Jiaotong University"
+   }
+  ]
+ },
+ {
+  "title": "Flood susceptibility evaluation through deep learning optimizer ensembles and GIS techniques",
+  "year": 2022,
+  "citations": 40,
+  "doi": "https://doi.org/10.1016/j.jenvman.2022.115316",
+  "authors": [
+   {
+    "name": "Romulus Costache",
+    "institution": "Transylvania University of Bra\u0219ov"
+   },
+   {
+    "name": "Alireza Arabameri",
+    "institution": "Tarbiat Modares University"
+   },
+   {
+    "name": "Iulia Costache",
+    "institution": "University of Bucharest"
+   }
+  ]
+ },
+ {
+  "title": "Enriching the metadata of map images: a deep learning approach with GIS-based data augmentation",
+  "year": 2021,
+  "citations": 23,
+  "doi": "https://doi.org/10.1080/13658816.2021.1968407",
+  "authors": [
+   {
+    "name": "Yingjie Hu",
+    "institution": "University at Buffalo, State University of New York"
+   },
+   {
+    "name": "Zhipeng Gui",
+    "institution": "State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing"
+   },
+   {
+    "name": "Jimin Wang",
+    "institution": "University at Buffalo, State University of New York"
+   }
+  ]
+ },
+ {
+  "title": "Machine learning methods for landslide susceptibility studies: A comparative overview of algorithm performance",
+  "year": 2020,
+  "citations": 1019,
+  "doi": "https://doi.org/10.1016/j.earscirev.2020.103225",
+  "authors": [
+   {
+    "name": "Abdelaziz Merghadi",
+    "institution": "Universit\u00e9 Larbi T\u00e9bessi"
+   },
+   {
+    "name": "Ali P. Yunus",
+    "institution": "Chengdu University of Technology"
+   },
+   {
+    "name": "Jie Dou",
+    "institution": "China University of Geosciences"
+   }
+  ]
+ },
+ {
+  "title": "Insights into geospatial heterogeneity of landslide susceptibility based on the SHAP-XGBoost model",
+  "year": 2023,
+  "citations": 478,
+  "doi": "https://doi.org/10.1016/j.jenvman.2023.117357",
+  "authors": [
+   {
+    "name": "Junyi Zhang",
+    "institution": "Chongqing Normal University"
+   },
+   {
+    "name": "Xianglong Ma",
+    "institution": "Chongqing Normal University"
+   },
+   {
+    "name": "Jialan Zhang",
+    "institution": "Chongqing Normal University"
+   }
+  ]
+ },
+ {
+  "title": "Deep learning-based landslide susceptibility mapping",
+  "year": 2021,
+  "citations": 358,
+  "doi": "https://doi.org/10.1038/s41598-021-03585-1",
+  "authors": [
+   {
+    "name": "Mohammad Azarafza",
+    "institution": "University of Tabriz"
+   },
+   {
+    "name": "Mehdi Azarafza",
+    "institution": "University of Tabriz"
+   },
+   {
+    "name": "Haluk Akg\u00fcn",
+    "institution": "Middle East Technical University"
+   }
+  ]
+ },
+ {
+  "title": "A random forest model of landslide susceptibility mapping based on hyperparameter optimization using Bayes algorithm",
+  "year": 2020,
+  "citations": 440,
+  "doi": "https://doi.org/10.1016/j.geomorph.2020.107201",
+  "authors": [
+   {
+    "name": "Deliang Sun",
+    "institution": "Chongqing Normal University"
+   },
+   {
+    "name": "Haijia Wen",
+    "institution": "Chongqing University"
+   },
+   {
+    "name": "Danzhou Wang",
+    "institution": "Chongqing Normal University"
+   }
+  ]
+ },
+ {
+  "title": "Comparisons of heuristic, general statistical and machine learning models for landslide susceptibility prediction and mapping",
+  "year": 2020,
+  "citations": 445,
+  "doi": "https://doi.org/10.1016/j.catena.2020.104580",
+  "authors": [
+   {
+    "name": "Faming Huang",
+    "institution": "Nanchang University"
+   },
+   {
+    "name": "Zhongshan Cao",
+    "institution": "Nanchang University"
+   },
+   {
+    "name": "Jianfei Guo",
+    "institution": "Nanchang University"
+   }
+  ]
+ },
+ {
+  "title": "Evaluation of deep learning algorithms for national scale landslide susceptibility mapping of Iran",
+  "year": 2020,
+  "citations": 380,
+  "doi": "https://doi.org/10.1016/j.gsf.2020.06.013",
+  "authors": [
+   {
+    "name": "Phuong Thao Thi Ngo",
+    "institution": "Duy Tan University"
+   },
+   {
+    "name": "Mahdi Panahi",
+    "institution": "Kangwon National University"
+   },
+   {
+    "name": "Khabat Khosravi",
+    "institution": "Sari Agricultural Sciences and Natural Resources University"
+   }
+  ]
+ },
+ {
+  "title": "Landslide susceptibility evaluation and hazard zonation techniques \u2013 a review",
+  "year": 2020,
+  "citations": 300,
+  "doi": "https://doi.org/10.1186/s40677-020-00152-0",
+  "authors": [
+   {
+    "name": "Leulalem Shano",
+    "institution": "Arba Minch University"
+   },
+   {
+    "name": "Tarun Kumar Raghuvanshi",
+    "institution": "Addis Ababa University"
+   },
+   {
+    "name": "Matebie Meten",
+    "institution": "Addis Ababa Science and Technology University"
+   }
+  ]
+ },
+ {
+  "title": "Landslide susceptibility mapping using hybrid random forest with GeoDetector and RFE for factor optimization",
+  "year": 2021,
+  "citations": 378,
+  "doi": "https://doi.org/10.1016/j.gsf.2021.101211",
+  "authors": [
+   {
+    "name": "Xinzhi Zhou",
+    "institution": "Chongqing University"
+   },
+   {
+    "name": "Haijia Wen",
+    "institution": "Chongqing University"
+   },
+   {
+    "name": "Yalan Zhang",
+    "institution": "Chongqing University"
+   }
+  ]
+ },
+ {
+  "title": "Comparing the prediction performance of a Deep Learning Neural Network model with conventional machine learning models in landslide susceptibility assessment",
+  "year": 2020,
+  "citations": 444,
+  "doi": "https://doi.org/10.1016/j.catena.2019.104426",
+  "authors": [
+   {
+    "name": "Dieu Tien Bui",
+    "institution": "Duy Tan University"
+   },
+   {
+    "name": "Paraskevas Tsangaratos",
+    "institution": "Ton Duc Thang University"
+   },
+   {
+    "name": "Viet-Tien Nguyen",
+    "institution": "Vietnam Academy of Science and Technology"
+   }
+  ]
+ },
+ {
+  "title": "A spatially explicit deep learning neural network model for the prediction of landslide susceptibility",
+  "year": 2020,
+  "citations": 308,
+  "doi": "https://doi.org/10.1016/j.catena.2019.104451",
+  "authors": [
+   {
+    "name": "Dong Van Dao",
+    "institution": "University Of Transport Technology"
+   },
+   {
+    "name": "Abolfazl Jaafari",
+    "institution": "Research Institute of Forests and Rangelands"
+   },
+   {
+    "name": "Mahmoud Bayat",
+    "institution": "Agricultural Research & Education Organization"
+   }
+  ]
+ },
+ {
+  "title": "Landslide susceptibility mapping using machine learning algorithms and comparison of their performance at Abha Basin, Asir Region, Saudi Arabia",
+  "year": 2020,
+  "citations": 400,
+  "doi": "https://doi.org/10.1016/j.gsf.2020.05.010",
+  "authors": [
+   {
+    "name": "Ahmed M. Youssef",
+    "institution": "Saudi Aramco (Saudi Arabia)"
+   },
+   {
+    "name": "Hamid Reza Pourghasemi",
+    "institution": "Shiraz University"
+   }
+  ]
+ },
+ {
+  "title": "GIS-based landslide susceptibility assessment using optimized hybrid machine learning methods",
+  "year": 2020,
+  "citations": 296,
+  "doi": "https://doi.org/10.1016/j.catena.2020.104833",
+  "authors": [
+   {
+    "name": "Xi Chen",
+    "institution": "Xi'an University of Science and Technology"
+   },
+   {
+    "name": "Wei Chen",
+    "institution": "Xi'an University of Science and Technology"
+   }
+  ]
+ }
+]

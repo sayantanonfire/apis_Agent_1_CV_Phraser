@@ -1,0 +1,177 @@
+{
+  "name": "Sayantan Mandal",
+  "email": "sayantanonfire@gmail.com",
+  "current_position": null,
+  "current_institution": "CNN",
+  "education": [
+    {
+      "degree": "PhD.",
+      "field": "Geography (GIS/RS/AI ML)",
+      "institution": "Delhi School of Economics",
+      "year": 2022
+    },
+    {
+      "degree": "MA",
+      "field": "Geography",
+      "institution": "Delhi School of Economics",
+      "year": 2021
+    },
+    {
+      "degree": "BSc",
+      "field": "Geography",
+      "institution": "Presidency University",
+      "year": 2019
+    }
+  ],
+  "topics": [
+    "(Delhi School",
+    "Edge Enhancement",
+    "the Himalayas",
+    "complex geospatial data",
+    "CORE SKILLS\nGeospatial",
+    "| ORCID ID",
+    "Dark\nImage Subtraction",
+    "Remote Sensing",
+    "Himalayan terrain",
+    "multi-hazard modelling",
+    "Delhi School",
+    "actionable insights",
+    "| GitHub",
+    "Segment Anything Model",
+    "ML Classifier",
+    "DEM enhancement",
+    "Random Forest",
+    "PhD researcher",
+    "SAYANTAN MANDAL New Delhi",
+    "Remote\nSensing"
+  ],
+  "methods": [
+    "MLP",
+    "SHAP",
+    "Stacking",
+    "Isolation Forest",
+    "Random Forest",
+    "CNN",
+    "DenseNet",
+    "SVM",
+    "t-SNE",
+    "Ensemble",
+    "NDVI",
+    "LSTM",
+    "Explainable AI"
+  ],
+  "tools": [
+    "GeoPandas",
+    "Java",
+    "QGIS",
+    "Pandas",
+    "XGBoost",
+    "GEE",
+    "Rasterio",
+    "Google Earth Engine",
+    "GCP",
+    "Python",
+    "Matplotlib",
+    "Plotly",
+    "Excel",
+    "Seaborn",
+    "NumPy",
+    "ERDAS IMAGINE",
+    "GitHub",
+    "MATLAB",
+    "Keras",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "ArcGIS"
+  ],
+  "domains": [
+    "Remote Sensing",
+    "Machine Learning",
+    "Geospatial Analysis",
+    "Natural Hazards"
+  ],
+  "publications": [
+    {
+      "title": "From Gaps to Granularity: CRPAG-DSHAT multi-modal deep learning framework for DEM void repair and\nsuper-resolution in the Himalayas",
+      "authors": [],
+      "year": 2025,
+      "venue": "super-resolution in the Himalayas. ISPRS Open Journal of Photogrammetry & Remote Sensing",
+      "doi": "10.1016/j.ophoto.2025.100101"
+    },
+    {
+      "title": "An innovative ensemble approach of deep learning models with soft computing techniques for GIS-based\ndrought-zonation mapping in Rarh Region, West Bengal",
+      "authors": [],
+      "year": null,
+      "venue": "drought-zonation mapping in Rarh Region, West Bengal. Environmental Science & Pollution Research",
+      "doi": null
+    },
+    {
+      "title": "A novel deep learning-based spatial ensemble approach and Segment Anything Model for landslide risk\nassessment in Chamoli district, Garhwal Himalayas",
+      "authors": [],
+      "year": 2025,
+      "venue": "assessment in Chamoli district, Garhwal Himalayas. Nature Scientific Reports, accepted 2025. DOI:",
+      "doi": null
+    },
+    {
+      "title": "A Novel Deep Learning Approach for GIS-based Landslide Susceptibility Prediction in the Himalayas\n(Chamoli, Uttarakhand)",
+      "authors": [],
+      "year": 2025,
+      "venue": "(Chamoli, Uttarakhand). Journal of the Indian Society of Remote Sensing, Manuscript ISRS-D-25-00835",
+      "doi": null
+    },
+    {
+      "title": "Decoding the Non-Farm Transformation: a t-SNE\u2013SHAP stacking ML audit of rural livelihood\ntransformation in India\u2019s Rarh Region",
+      "authors": [],
+      "year": 2025,
+      "venue": null,
+      "doi": null
+    },
+    {
+      "title": "(Co-author) A comparative study of AHP vs ML for groundwater-potential mapping in South Delhi",
+      "authors": [],
+      "year": 2025,
+      "venue": null,
+      "doi": null
+    }
+  ],
+  "skills": [
+    "GeoPandas",
+    "Java",
+    "QGIS",
+    "Pandas",
+    "XGBoost",
+    "GEE",
+    "Rasterio",
+    "Google Earth Engine",
+    "GCP",
+    "Python",
+    "Matplotlib",
+    "Plotly",
+    "Excel",
+    "Seaborn",
+    "NumPy",
+    "ERDAS IMAGINE",
+    "GitHub",
+    "MATLAB",
+    "Keras",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "ArcGIS"
+  ],
+  "career_stage": "PhD Student",
+  "geographic_focus": [
+    "netCDF4",
+    "Jodhpur",
+    "Kolkata",
+    "Himalayas",
+    "Rock-Ice",
+    "Joshimath",
+    "NetCDF",
+    "Uttarakhand",
+    "Synxflow",
+    "India"
+  ],
+  "created_at": "2026-02-14 16:00:44.981528"
+}

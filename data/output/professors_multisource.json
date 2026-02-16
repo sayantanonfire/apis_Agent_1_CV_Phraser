@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Iqbal H. Sarker",
+    "institution": "Swinburne University of Technology",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Machine Learning: Algorithms, Real-World Applications and Research Directions",
+        "year": 2021,
+        "citations": 4688
+      },
+      {
+        "title": "Deep Learning: A Comprehensive Overview on Techniques, Taxonomy, Applications and Research Directions",
+        "year": 2021,
+        "citations": 2258
+      }
+    ],
+    "total_citations": 6946,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Hao Chen",
+    "institution": "Beihang University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection",
+        "year": 2020,
+        "citations": 1590
+      },
+      {
+        "title": "Remote Sensing Image Change Detection With Transformers",
+        "year": 2021,
+        "citations": 950
+      }
+    ],
+    "total_citations": 2540,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Zhenwei Shi",
+    "institution": "Beihang University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection",
+        "year": 2020,
+        "citations": 1590
+      },
+      {
+        "title": "Remote Sensing Image Change Detection With Transformers",
+        "year": 2021,
+        "citations": 950
+      }
+    ],
+    "total_citations": 2540,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Haijia Wen",
+    "institution": "Chongqing University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "A random forest model of landslide susceptibility mapping based on hyperparameter optimization using Bayes algorithm",
+        "year": 2020,
+        "citations": 440
+      },
+      {
+        "title": "Landslide susceptibility mapping using hybrid random forest with GeoDetector and RFE for factor optimization",
+        "year": 2021,
+        "citations": 378
+      }
+    ],
+    "total_citations": 818,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Mohammad Azarafza",
+    "institution": "University of Tabriz",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Mehdi Azarafza",
+    "institution": "University of Tabriz",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Haluk Akg\u00fcn",
+    "institution": "Middle East Technical University",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      },
+      {
+        "title": "Deep learning-based landslide susceptibility mapping",
+        "year": 2021,
+        "citations": 358
+      }
+    ],
+    "total_citations": 716,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Romulus Costache",
+    "institution": "Transylvania University of Bra\u0219ov",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "Application of remote sensing and machine learning algorithms for forest fire mapping in a Mediterranean area",
+        "year": 2021,
+        "citations": 312
+      },
+      {
+        "title": "Flood susceptibility evaluation through deep learning optimizer ensembles and GIS techniques",
+        "year": 2022,
+        "citations": 40
+      }
+    ],
+    "total_citations": 352,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Weicai Wang",
+    "institution": "Institute of Tibetan Plateau Research",
+    "papers_count": 2,
+    "recent_papers": [
+      {
+        "title": "An integrative method for identifying potentially dangerous glacial lakes in the Himalayas",
+        "year": 2021,
+        "citations": 86
+      },
+      {
+        "title": "Monitoring and early warning system of Cirenmaco glacial lake in the central Himalayas",
+        "year": 2022,
+        "citations": 76
+      }
+    ],
+    "total_citations": 162,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Jakaria Rabbi",
+    "institution": "Athabasca University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Nilanjan Ray",
+    "institution": "University of Alberta",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Matthias Schubert",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Small-Object Detection in Remote Sensing Images with End-to-End Edge-Enhanced GAN and Object Detector Network",
+        "year": 2020,
+        "citations": 273
+      }
+    ],
+    "total_citations": 273,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Xiaoyu Mo",
+    "institution": "Nanyang Technological University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network",
+        "year": 2022,
+        "citations": 239
+      }
+    ],
+    "total_citations": 239,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Zhiyu Huang",
+    "institution": "Nanyang Technological University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network",
+        "year": 2022,
+        "citations": 239
+      }
+    ],
+    "total_citations": 239,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Minfeng Zhu",
+    "institution": "Zhejiang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Pingbo Pan",
+    "institution": "University of Technology Sydney",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Wei Chen",
+    "institution": "Zhejiang University",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network",
+        "year": 2020,
+        "citations": 200
+      }
+    ],
+    "total_citations": 200,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Sansar Raj Meena",
+    "institution": "University of Padua",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Landslide detection in the Himalayas using machine learning algorithms and U-Net",
+        "year": 2022,
+        "citations": 185
+      }
+    ],
+    "total_citations": 185,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Lucas Pedrosa Soares",
+    "institution": "CRC for Spatial information",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Landslide detection in the Himalayas using machine learning algorithms and U-Net",
+        "year": 2022,
+        "citations": 185
+      }
+    ],
+    "total_citations": 185,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  },
+  {
+    "name": "Carlos Henrique Grohmann",
+    "institution": "Universidade de S\u00e3o Paulo",
+    "papers_count": 1,
+    "recent_papers": [
+      {
+        "title": "Landslide detection in the Himalayas using machine learning algorithms and U-Net",
+        "year": 2022,
+        "citations": 185
+      }
+    ],
+    "total_citations": 185,
+    "email": null,
+    "website": null,
+    "scholar": null,
+    "researchgate": null,
+    "orcid": null,
+    "sources_checked": 0,
+    "scrape_success": false
+  }
+]
