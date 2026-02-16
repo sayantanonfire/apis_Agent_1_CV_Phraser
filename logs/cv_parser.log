@@ -55,3 +55,70 @@
 2026-02-16 20:39:46.689 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
 2026-02-16 20:39:46.691 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
 2026-02-16 20:39:46.691 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:04.507 | INFO     | __main__:__init__:24 - PDFExtractor initialized
+2026-02-16 21:04:04.507 | INFO     | __main__:__init__:24 - PDFExtractor initialized
+2026-02-16 21:04:04.510 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:04.510 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:04.921 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:04.921 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:05.601 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:05.601 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:05.960 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:05.960 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:06.026 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:06.026 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:06.030 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:06.030 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:06.035 | DEBUG    | __main__:extract_sections:145 -   Found section: education at position 6877
+2026-02-16 21:04:06.035 | DEBUG    | __main__:extract_sections:145 -   Found section: education at position 6877
+2026-02-16 21:04:06.041 | DEBUG    | __main__:extract_sections:145 -   Found section: experience at position 1971
+2026-02-16 21:04:06.041 | DEBUG    | __main__:extract_sections:145 -   Found section: experience at position 1971
+2026-02-16 21:04:06.045 | DEBUG    | __main__:extract_sections:145 -   Found section: publications at position 4250
+2026-02-16 21:04:06.045 | DEBUG    | __main__:extract_sections:145 -   Found section: publications at position 4250
+2026-02-16 21:04:09.298 | INFO     | __main__:__init__:24 - PDFExtractor initialized
+2026-02-16 21:04:09.298 | INFO     | __main__:__init__:24 - PDFExtractor initialized
+2026-02-16 21:04:11.216 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:11.216 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:11.216 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:11.885 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:11.885 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:11.885 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:12.378 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:12.378 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:12.378 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:13.250 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:13.250 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:13.250 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:13.325 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:13.325 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:13.325 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:13.335 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:13.335 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:13.335 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:14.332 | INFO     | __main__:__init__:24 - PDFExtractor initialized
+2026-02-16 21:04:14.332 | INFO     | __main__:__init__:24 - PDFExtractor initialized
+2026-02-16 21:04:14.332 | INFO     | __main__:__init__:24 - PDFExtractor initialized
+2026-02-16 21:04:17.406 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:17.406 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:17.406 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:17.406 | INFO     | __main__:extract_text:36 - Extracting text from: data/input/cv_samples/Sayantan_Mandal_CV.pdf
+2026-02-16 21:04:18.763 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:18.763 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:18.763 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:18.763 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 1: 2700 characters
+2026-02-16 21:04:19.780 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:19.780 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:19.780 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:19.780 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 2: 2489 characters
+2026-02-16 21:04:20.791 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:20.791 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:20.791 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:20.791 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 3: 2269 characters
+2026-02-16 21:04:20.964 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:20.964 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:20.964 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:20.964 | DEBUG    | __main__:_extract_with_pdfplumber:68 -   Page 4: 424 characters
+2026-02-16 21:04:20.979 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:20.979 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:20.979 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
+2026-02-16 21:04:20.979 | SUCCESS  | __main__:extract_text:41 - Extraction successful using pdfplumber
